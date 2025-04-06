@@ -1,0 +1,7553 @@
+[
+  {
+    "name": "Michael Jennings",
+    "email": "kimberlyallen@gmail.com",
+    "phone": "3657290333",
+    "age": 41,
+    "membership": "10-Class Pack",
+    "join_date": "2023-05-03",
+    "last_attended": "2023-11-07",
+    "loyalty_points": 472,
+    "retention_risk": "low",
+    "attendance": [
+      {
+        "date": "2023-08-17",
+        "class_type": "TRX",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2023-10-17",
+        "class_type": "Cycle",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2023-09-19",
+        "class_type": "HIIT",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2023-08-05",
+        "class_type": "TRX",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2023-10-14",
+        "class_type": "Barre",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2023-07-30",
+        "class_type": "Cycle",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2023-10-16",
+        "class_type": "HIIT",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2023-08-06",
+        "class_type": "HIIT",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2023-10-29",
+        "class_type": "Sculpt",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2023-08-25",
+        "class_type": "TRX",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2023-11-01",
+        "class_type": "Sculpt",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2023-09-05",
+        "class_type": "Barre",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2023-09-22",
+        "class_type": "Sculpt",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2023-10-11",
+        "class_type": "HIIT",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2023-09-29",
+        "class_type": "Sculpt",
+        "studio": "Westmount"
+      }
+    ]
+  },
+  {
+    "name": "Ian Watts",
+    "email": "tiffanyhess@roy-brown.com",
+    "phone": "001-185-220-9274x87412",
+    "age": 18,
+    "membership": "5-Class Pack",
+    "join_date": "2023-07-22",
+    "last_attended": "2025-02-20",
+    "loyalty_points": 87,
+    "retention_risk": "low",
+    "attendance": [
+      {
+        "date": "2025-02-03",
+        "class_type": "Barre",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2025-02-11",
+        "class_type": "Barre",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-12-12",
+        "class_type": "TRX",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-12-06",
+        "class_type": "Barre",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-12-14",
+        "class_type": "Barre",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2025-01-22",
+        "class_type": "Cycle",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-11-27",
+        "class_type": "Sculpt",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-11-19",
+        "class_type": "Cycle",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-12-25",
+        "class_type": "Cycle",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2025-01-07",
+        "class_type": "Barre",
+        "studio": "Westmount"
+      }
+    ]
+  },
+  {
+    "name": "Elizabeth Smith",
+    "email": "jordanrachel@yahoo.com",
+    "phone": "001-496-897-1085x11099",
+    "age": 32,
+    "membership": "Drop-In",
+    "join_date": "2025-01-05",
+    "last_attended": "2025-01-29",
+    "loyalty_points": 170,
+    "retention_risk": "low",
+    "attendance": [
+      {
+        "date": "2024-12-05",
+        "class_type": "Barre",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-11-04",
+        "class_type": "HIIT",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2025-01-27",
+        "class_type": "Cycle",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2025-01-22",
+        "class_type": "TRX",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2025-01-23",
+        "class_type": "HIIT",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-12-10",
+        "class_type": "Cycle",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-11-25",
+        "class_type": "HIIT",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-11-08",
+        "class_type": "HIIT",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-12-09",
+        "class_type": "HIIT",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-12-23",
+        "class_type": "HIIT",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-11-16",
+        "class_type": "Cycle",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2025-01-19",
+        "class_type": "Cycle",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2025-01-10",
+        "class_type": "TRX",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-12-18",
+        "class_type": "HIIT",
+        "studio": "Centre-Ville"
+      }
+    ]
+  },
+  {
+    "name": "Lisa Mcintosh",
+    "email": "tammy32@taylor.com",
+    "phone": "(558)768-1621",
+    "age": 60,
+    "membership": "10-Class Pack",
+    "join_date": "2024-07-03",
+    "last_attended": "2024-09-19",
+    "loyalty_points": 113,
+    "retention_risk": "low",
+    "attendance": [
+      {
+        "date": "2024-06-19",
+        "class_type": "HIIT",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-06-13",
+        "class_type": "Barre",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-08-14",
+        "class_type": "HIIT",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-07-19",
+        "class_type": "Cycle",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-08-13",
+        "class_type": "TRX",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-09-10",
+        "class_type": "Cycle",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-08-10",
+        "class_type": "Cycle",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-08-23",
+        "class_type": "Barre",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-08-25",
+        "class_type": "Sculpt",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-06-13",
+        "class_type": "Sculpt",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-06-11",
+        "class_type": "Barre",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-07-28",
+        "class_type": "Barre",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-09-17",
+        "class_type": "Cycle",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-09-06",
+        "class_type": "Sculpt",
+        "studio": "Vieux-Port"
+      }
+    ]
+  },
+  {
+    "name": "Caleb Carrillo",
+    "email": "pfletcher@jones.biz",
+    "phone": "254-800-7037",
+    "age": 53,
+    "membership": "10-Class Pack",
+    "join_date": "2024-02-07",
+    "last_attended": "2024-08-26",
+    "loyalty_points": 82,
+    "retention_risk": "low",
+    "attendance": [
+      {
+        "date": "2024-07-26",
+        "class_type": "Cycle",
+        "studio": "Westmount"
+      }
+    ]
+  },
+  {
+    "name": "Mark Rangel",
+    "email": "sullivanjorge@malone.info",
+    "phone": "4154105722",
+    "age": 51,
+    "membership": "10-Class Pack",
+    "join_date": "2024-09-03",
+    "last_attended": "2025-01-01",
+    "loyalty_points": 81,
+    "retention_risk": "low",
+    "attendance": [
+      {
+        "date": "2024-12-26",
+        "class_type": "Cycle",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-11-08",
+        "class_type": "HIIT",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-12-06",
+        "class_type": "Cycle",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-12-10",
+        "class_type": "TRX",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-12-27",
+        "class_type": "Barre",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-10-12",
+        "class_type": "TRX",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-11-19",
+        "class_type": "Barre",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-12-12",
+        "class_type": "Cycle",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-12-21",
+        "class_type": "Cycle",
+        "studio": "Vieux-Port"
+      }
+    ]
+  },
+  {
+    "name": "Amy Ellison",
+    "email": "michaeljones@hotmail.com",
+    "phone": "4563890121",
+    "age": 32,
+    "membership": "5-Class Pack",
+    "join_date": "2023-09-24",
+    "last_attended": "2024-03-27",
+    "loyalty_points": 193,
+    "retention_risk": "low",
+    "attendance": [
+      {
+        "date": "2024-01-22",
+        "class_type": "Cycle",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-01-22",
+        "class_type": "Sculpt",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-03-24",
+        "class_type": "Cycle",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-03-17",
+        "class_type": "Barre",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-01-16",
+        "class_type": "TRX",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-03-11",
+        "class_type": "Cycle",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-01-24",
+        "class_type": "Cycle",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-02-08",
+        "class_type": "Cycle",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-01-28",
+        "class_type": "Cycle",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2023-12-19",
+        "class_type": "Barre",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-02-16",
+        "class_type": "Barre",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-01-19",
+        "class_type": "HIIT",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2023-12-28",
+        "class_type": "TRX",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2023-12-24",
+        "class_type": "Cycle",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-01-20",
+        "class_type": "Sculpt",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-03-13",
+        "class_type": "TRX",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-01-22",
+        "class_type": "Sculpt",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-03-16",
+        "class_type": "Sculpt",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-01-07",
+        "class_type": "Cycle",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-03-17",
+        "class_type": "TRX",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-03-19",
+        "class_type": "HIIT",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-03-18",
+        "class_type": "Cycle",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-03-06",
+        "class_type": "Sculpt",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-03-24",
+        "class_type": "Sculpt",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-02-29",
+        "class_type": "TRX",
+        "studio": "Rockland"
+      }
+    ]
+  },
+  {
+    "name": "Matthew Nguyen",
+    "email": "coxsteven@yahoo.com",
+    "phone": "(530)687-2614x37805",
+    "age": 61,
+    "membership": "Unlimited",
+    "join_date": "2023-12-05",
+    "last_attended": "2024-03-27",
+    "loyalty_points": 364,
+    "retention_risk": "low",
+    "attendance": [
+      {
+        "date": "2024-02-13",
+        "class_type": "Cycle",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-01-18",
+        "class_type": "Cycle",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-01-21",
+        "class_type": "HIIT",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-02-09",
+        "class_type": "Sculpt",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-01-21",
+        "class_type": "Cycle",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2023-12-30",
+        "class_type": "Barre",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2023-12-23",
+        "class_type": "HIIT",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-01-12",
+        "class_type": "HIIT",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-02-14",
+        "class_type": "Cycle",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2023-12-23",
+        "class_type": "Sculpt",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-03-20",
+        "class_type": "Sculpt",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2023-12-24",
+        "class_type": "Cycle",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-03-25",
+        "class_type": "HIIT",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-03-09",
+        "class_type": "HIIT",
+        "studio": "Westmount"
+      }
+    ]
+  },
+  {
+    "name": "Paul Jones",
+    "email": "halljamie@yahoo.com",
+    "phone": "001-012-210-8604x789",
+    "age": 57,
+    "membership": "Unlimited",
+    "join_date": "2023-11-27",
+    "last_attended": "2024-08-10",
+    "loyalty_points": 190,
+    "retention_risk": "medium",
+    "attendance": [
+      {
+        "date": "2024-06-05",
+        "class_type": "Cycle",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-06-30",
+        "class_type": "Barre",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-05-16",
+        "class_type": "HIIT",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-07-30",
+        "class_type": "Cycle",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-08-08",
+        "class_type": "Barre",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-06-19",
+        "class_type": "Cycle",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-05-25",
+        "class_type": "Barre",
+        "studio": "Centre-Ville"
+      }
+    ]
+  },
+  {
+    "name": "Cody Benjamin",
+    "email": "vincent19@yahoo.com",
+    "phone": "588-248-9634x542",
+    "age": 34,
+    "membership": "Drop-In",
+    "join_date": "2024-03-31",
+    "last_attended": "2024-06-11",
+    "loyalty_points": 313,
+    "retention_risk": "low",
+    "attendance": [
+      {
+        "date": "2024-03-19",
+        "class_type": "TRX",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-05-07",
+        "class_type": "Sculpt",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-04-16",
+        "class_type": "Barre",
+        "studio": "Westmount"
+      }
+    ]
+  },
+  {
+    "name": "Joe Stein",
+    "email": "eglenn@flores-schmidt.biz",
+    "phone": "+1-388-633-2935",
+    "age": 50,
+    "membership": "Drop-In",
+    "join_date": "2023-04-06",
+    "last_attended": "2024-12-12",
+    "loyalty_points": 322,
+    "retention_risk": "low",
+    "attendance": [
+      {
+        "date": "2024-10-08",
+        "class_type": "TRX",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-11-06",
+        "class_type": "Cycle",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-09-16",
+        "class_type": "HIIT",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-12-03",
+        "class_type": "Cycle",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-09-18",
+        "class_type": "Barre",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-10-28",
+        "class_type": "Sculpt",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-10-27",
+        "class_type": "Cycle",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-11-07",
+        "class_type": "HIIT",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-09-22",
+        "class_type": "TRX",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-10-29",
+        "class_type": "TRX",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-09-23",
+        "class_type": "Sculpt",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-10-01",
+        "class_type": "Barre",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-11-24",
+        "class_type": "Barre",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-09-12",
+        "class_type": "TRX",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-11-03",
+        "class_type": "Cycle",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-10-30",
+        "class_type": "TRX",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-10-27",
+        "class_type": "TRX",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-09-25",
+        "class_type": "Cycle",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-09-24",
+        "class_type": "TRX",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-10-05",
+        "class_type": "Cycle",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-09-18",
+        "class_type": "HIIT",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-09-03",
+        "class_type": "HIIT",
+        "studio": "Centre-Ville"
+      }
+    ]
+  },
+  {
+    "name": "Andrew Davis",
+    "email": "hillregina@doyle.com",
+    "phone": "(427)557-0297",
+    "age": 29,
+    "membership": "Drop-In",
+    "join_date": "2023-04-09",
+    "last_attended": "2023-07-25",
+    "loyalty_points": 257,
+    "retention_risk": "low",
+    "attendance": []
+  },
+  {
+    "name": "Cameron Hanna",
+    "email": "kiaramiller@hotmail.com",
+    "phone": "454-198-0800",
+    "age": 43,
+    "membership": "Unlimited",
+    "join_date": "2025-02-23",
+    "last_attended": "2025-03-17",
+    "loyalty_points": 406,
+    "retention_risk": "low",
+    "attendance": []
+  },
+  {
+    "name": "Ricky Castaneda",
+    "email": "currytracy@gmail.com",
+    "phone": "001-880-383-1355x354",
+    "age": 44,
+    "membership": "Drop-In",
+    "join_date": "2024-09-30",
+    "last_attended": "2024-10-02",
+    "loyalty_points": 327,
+    "retention_risk": "low",
+    "attendance": [
+      {
+        "date": "2024-08-04",
+        "class_type": "Sculpt",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-07-29",
+        "class_type": "HIIT",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-08-27",
+        "class_type": "TRX",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-09-08",
+        "class_type": "HIIT",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-07-24",
+        "class_type": "TRX",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-07-17",
+        "class_type": "TRX",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-08-07",
+        "class_type": "HIIT",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-08-02",
+        "class_type": "TRX",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-08-21",
+        "class_type": "Cycle",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-08-29",
+        "class_type": "HIIT",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-07-16",
+        "class_type": "Cycle",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-08-15",
+        "class_type": "Barre",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-08-21",
+        "class_type": "Cycle",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-09-01",
+        "class_type": "HIIT",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-07-16",
+        "class_type": "Sculpt",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-08-14",
+        "class_type": "Cycle",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-08-21",
+        "class_type": "Sculpt",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-09-16",
+        "class_type": "TRX",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-08-14",
+        "class_type": "TRX",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-07-02",
+        "class_type": "Barre",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-08-03",
+        "class_type": "Cycle",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-09-11",
+        "class_type": "Barre",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-10-01",
+        "class_type": "Sculpt",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-09-30",
+        "class_type": "Barre",
+        "studio": "Westmount"
+      }
+    ]
+  },
+  {
+    "name": "Emily Owen",
+    "email": "annetterobinson@gomez-burke.org",
+    "phone": "(068)662-3084",
+    "age": 25,
+    "membership": "10-Class Pack",
+    "join_date": "2025-02-23",
+    "last_attended": "2025-03-12",
+    "loyalty_points": 184,
+    "retention_risk": "high",
+    "attendance": [
+      {
+        "date": "2025-02-18",
+        "class_type": "HIIT",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2025-02-08",
+        "class_type": "TRX",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2025-01-12",
+        "class_type": "HIIT",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-12-19",
+        "class_type": "TRX",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2025-02-15",
+        "class_type": "Barre",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2025-03-03",
+        "class_type": "Barre",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2025-02-16",
+        "class_type": "Cycle",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2025-03-07",
+        "class_type": "Sculpt",
+        "studio": "Rockland"
+      }
+    ]
+  },
+  {
+    "name": "Frank Stevens",
+    "email": "rachelgeorge@gmail.com",
+    "phone": "187.653.1520x1278",
+    "age": 22,
+    "membership": "Unlimited",
+    "join_date": "2023-12-29",
+    "last_attended": "2024-06-19",
+    "loyalty_points": 214,
+    "retention_risk": "low",
+    "attendance": [
+      {
+        "date": "2024-03-29",
+        "class_type": "Barre",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-04-09",
+        "class_type": "TRX",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-04-08",
+        "class_type": "Sculpt",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-04-07",
+        "class_type": "Cycle",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-03-17",
+        "class_type": "HIIT",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-06-03",
+        "class_type": "Barre",
+        "studio": "Vieux-Port"
+      }
+    ]
+  },
+  {
+    "name": "Ryan Peters",
+    "email": "zsmith@blair.com",
+    "phone": "336-163-8298",
+    "age": 30,
+    "membership": "5-Class Pack",
+    "join_date": "2024-08-14",
+    "last_attended": "2025-02-23",
+    "loyalty_points": 435,
+    "retention_risk": "high",
+    "attendance": [
+      {
+        "date": "2025-02-05",
+        "class_type": "Barre",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-12-01",
+        "class_type": "Sculpt",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2025-01-23",
+        "class_type": "TRX",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2025-01-03",
+        "class_type": "TRX",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2025-02-02",
+        "class_type": "Sculpt",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-12-02",
+        "class_type": "Sculpt",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-11-17",
+        "class_type": "Barre",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-12-08",
+        "class_type": "Cycle",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-12-08",
+        "class_type": "Sculpt",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2025-02-03",
+        "class_type": "Barre",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-12-18",
+        "class_type": "TRX",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2025-01-27",
+        "class_type": "Cycle",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2025-02-11",
+        "class_type": "TRX",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-11-26",
+        "class_type": "Cycle",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-12-28",
+        "class_type": "Barre",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-12-29",
+        "class_type": "TRX",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2025-01-31",
+        "class_type": "Cycle",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-11-28",
+        "class_type": "Cycle",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2025-01-24",
+        "class_type": "TRX",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2025-01-07",
+        "class_type": "TRX",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2025-01-10",
+        "class_type": "Cycle",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-11-27",
+        "class_type": "Sculpt",
+        "studio": "Vieux-Port"
+      }
+    ]
+  },
+  {
+    "name": "Breanna Park",
+    "email": "sandy55@murphy.info",
+    "phone": "001-389-735-6924",
+    "age": 64,
+    "membership": "5-Class Pack",
+    "join_date": "2023-06-01",
+    "last_attended": "2024-12-13",
+    "loyalty_points": 317,
+    "retention_risk": "high",
+    "attendance": [
+      {
+        "date": "2024-10-01",
+        "class_type": "HIIT",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-12-08",
+        "class_type": "Sculpt",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-09-10",
+        "class_type": "HIIT",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-09-14",
+        "class_type": "Sculpt",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-10-24",
+        "class_type": "Cycle",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-09-13",
+        "class_type": "Sculpt",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-11-29",
+        "class_type": "TRX",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-10-21",
+        "class_type": "TRX",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-09-26",
+        "class_type": "Cycle",
+        "studio": "Westmount"
+      }
+    ]
+  },
+  {
+    "name": "Shelia Reyes",
+    "email": "alishadavis@gmail.com",
+    "phone": "+1-816-335-8816",
+    "age": 36,
+    "membership": "Drop-In",
+    "join_date": "2024-03-26",
+    "last_attended": "2025-04-02",
+    "loyalty_points": 9,
+    "retention_risk": "low",
+    "attendance": [
+      {
+        "date": "2025-03-14",
+        "class_type": "TRX",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2025-03-02",
+        "class_type": "HIIT",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2025-01-07",
+        "class_type": "Sculpt",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2025-01-26",
+        "class_type": "Barre",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2025-01-17",
+        "class_type": "Cycle",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2025-01-02",
+        "class_type": "Cycle",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2025-03-25",
+        "class_type": "Barre",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2025-02-19",
+        "class_type": "HIIT",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2025-03-29",
+        "class_type": "HIIT",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2025-03-01",
+        "class_type": "HIIT",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-12-25",
+        "class_type": "Sculpt",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2025-03-06",
+        "class_type": "Barre",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2025-03-06",
+        "class_type": "TRX",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2025-01-14",
+        "class_type": "TRX",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2025-01-21",
+        "class_type": "Barre",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2025-02-11",
+        "class_type": "Barre",
+        "studio": "Vieux-Port"
+      }
+    ]
+  },
+  {
+    "name": "Gregory Pitts",
+    "email": "jvelazquez@kennedy.com",
+    "phone": "+1-959-947-8096x2173",
+    "age": 45,
+    "membership": "Unlimited",
+    "join_date": "2024-07-21",
+    "last_attended": "2024-09-07",
+    "loyalty_points": 250,
+    "retention_risk": "low",
+    "attendance": [
+      {
+        "date": "2024-07-03",
+        "class_type": "Cycle",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-08-11",
+        "class_type": "TRX",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-08-14",
+        "class_type": "Sculpt",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-08-07",
+        "class_type": "Barre",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-07-20",
+        "class_type": "Cycle",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-07-01",
+        "class_type": "TRX",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-08-21",
+        "class_type": "Barre",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-07-11",
+        "class_type": "Cycle",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-06-06",
+        "class_type": "Sculpt",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-08-08",
+        "class_type": "HIIT",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-08-10",
+        "class_type": "HIIT",
+        "studio": "Centre-Ville"
+      }
+    ]
+  },
+  {
+    "name": "Laura Evans",
+    "email": "cbrown@gmail.com",
+    "phone": "381-366-3162x7894",
+    "age": 44,
+    "membership": "Drop-In",
+    "join_date": "2023-06-05",
+    "last_attended": "2025-03-16",
+    "loyalty_points": 52,
+    "retention_risk": "low",
+    "attendance": [
+      {
+        "date": "2025-03-13",
+        "class_type": "Sculpt",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-12-16",
+        "class_type": "HIIT",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2025-01-17",
+        "class_type": "TRX",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2025-03-09",
+        "class_type": "TRX",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2025-03-14",
+        "class_type": "Cycle",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-12-09",
+        "class_type": "Barre",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2025-01-30",
+        "class_type": "HIIT",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2025-01-01",
+        "class_type": "Cycle",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2025-01-03",
+        "class_type": "Barre",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-12-21",
+        "class_type": "HIIT",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2025-02-13",
+        "class_type": "HIIT",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2025-03-07",
+        "class_type": "HIIT",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2025-02-23",
+        "class_type": "HIIT",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2025-01-14",
+        "class_type": "TRX",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2025-02-04",
+        "class_type": "Cycle",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2025-02-20",
+        "class_type": "Cycle",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-12-07",
+        "class_type": "Sculpt",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2025-01-08",
+        "class_type": "HIIT",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-12-15",
+        "class_type": "HIIT",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2025-02-06",
+        "class_type": "HIIT",
+        "studio": "Rockland"
+      }
+    ]
+  },
+  {
+    "name": "Jeffrey Perez MD",
+    "email": "vbarry@gmail.com",
+    "phone": "(473)973-3910x649",
+    "age": 45,
+    "membership": "Drop-In",
+    "join_date": "2024-07-06",
+    "last_attended": "2024-08-31",
+    "loyalty_points": 489,
+    "retention_risk": "medium",
+    "attendance": [
+      {
+        "date": "2024-07-27",
+        "class_type": "Sculpt",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-06-19",
+        "class_type": "Sculpt",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-08-04",
+        "class_type": "Barre",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-07-21",
+        "class_type": "Sculpt",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-08-19",
+        "class_type": "Cycle",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-07-02",
+        "class_type": "TRX",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-07-28",
+        "class_type": "HIIT",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-07-15",
+        "class_type": "TRX",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-06-15",
+        "class_type": "Sculpt",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-05-27",
+        "class_type": "HIIT",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-07-09",
+        "class_type": "HIIT",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-06-21",
+        "class_type": "TRX",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-08-04",
+        "class_type": "HIIT",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-07-27",
+        "class_type": "HIIT",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-07-04",
+        "class_type": "Cycle",
+        "studio": "Vieux-Port"
+      }
+    ]
+  },
+  {
+    "name": "Kristen White",
+    "email": "danielellison@mack.com",
+    "phone": "338-164-9582x650",
+    "age": 51,
+    "membership": "10-Class Pack",
+    "join_date": "2024-09-10",
+    "last_attended": "2025-01-28",
+    "loyalty_points": 486,
+    "retention_risk": "low",
+    "attendance": [
+      {
+        "date": "2025-01-25",
+        "class_type": "Barre",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2025-01-09",
+        "class_type": "TRX",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-12-20",
+        "class_type": "TRX",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-12-22",
+        "class_type": "TRX",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-11-16",
+        "class_type": "Cycle",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-12-16",
+        "class_type": "Barre",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-12-04",
+        "class_type": "HIIT",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-11-06",
+        "class_type": "Cycle",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-12-02",
+        "class_type": "HIIT",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-12-01",
+        "class_type": "Sculpt",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-11-14",
+        "class_type": "TRX",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-11-23",
+        "class_type": "HIIT",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-12-10",
+        "class_type": "Barre",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2025-01-27",
+        "class_type": "HIIT",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-12-04",
+        "class_type": "HIIT",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2025-01-06",
+        "class_type": "Cycle",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-10-31",
+        "class_type": "TRX",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2025-01-16",
+        "class_type": "Cycle",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2025-01-16",
+        "class_type": "Sculpt",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-12-30",
+        "class_type": "Cycle",
+        "studio": "Centre-Ville"
+      }
+    ]
+  },
+  {
+    "name": "Elaine Sutton",
+    "email": "janetfarmer@hotmail.com",
+    "phone": "(721)301-2910x280",
+    "age": 20,
+    "membership": "10-Class Pack",
+    "join_date": "2023-11-16",
+    "last_attended": "2024-03-26",
+    "loyalty_points": 448,
+    "retention_risk": "low",
+    "attendance": [
+      {
+        "date": "2024-01-06",
+        "class_type": "Cycle",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-02-21",
+        "class_type": "HIIT",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-01-09",
+        "class_type": "Sculpt",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-02-04",
+        "class_type": "TRX",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-02-21",
+        "class_type": "Cycle",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-03-11",
+        "class_type": "TRX",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-01-01",
+        "class_type": "TRX",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-02-03",
+        "class_type": "TRX",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-01-22",
+        "class_type": "TRX",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-02-09",
+        "class_type": "HIIT",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-02-21",
+        "class_type": "HIIT",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-02-17",
+        "class_type": "Barre",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-02-17",
+        "class_type": "Cycle",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-01-29",
+        "class_type": "Barre",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2023-12-29",
+        "class_type": "Sculpt",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-02-15",
+        "class_type": "HIIT",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-02-16",
+        "class_type": "TRX",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-03-23",
+        "class_type": "Barre",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-03-22",
+        "class_type": "TRX",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-03-03",
+        "class_type": "Sculpt",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-03-10",
+        "class_type": "Cycle",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-01-17",
+        "class_type": "Barre",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2023-12-23",
+        "class_type": "Cycle",
+        "studio": "Vieux-Port"
+      }
+    ]
+  },
+  {
+    "name": "Vincent Case",
+    "email": "patricia46@singh.info",
+    "phone": "4436078470",
+    "age": 47,
+    "membership": "Drop-In",
+    "join_date": "2024-11-17",
+    "last_attended": "2025-02-21",
+    "loyalty_points": 71,
+    "retention_risk": "medium",
+    "attendance": [
+      {
+        "date": "2025-01-26",
+        "class_type": "Barre",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-12-13",
+        "class_type": "HIIT",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-12-06",
+        "class_type": "TRX",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2025-02-18",
+        "class_type": "Cycle",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-12-13",
+        "class_type": "HIIT",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2025-01-12",
+        "class_type": "Barre",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-11-29",
+        "class_type": "Cycle",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-12-29",
+        "class_type": "Barre",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-12-20",
+        "class_type": "TRX",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2025-01-29",
+        "class_type": "HIIT",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-12-15",
+        "class_type": "Sculpt",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-12-11",
+        "class_type": "Sculpt",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2025-02-04",
+        "class_type": "Barre",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-12-12",
+        "class_type": "HIIT",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-12-01",
+        "class_type": "TRX",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2025-01-08",
+        "class_type": "Cycle",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2025-02-14",
+        "class_type": "Sculpt",
+        "studio": "Rockland"
+      }
+    ]
+  },
+  {
+    "name": "Christopher Ramos",
+    "email": "donaldadams@gmail.com",
+    "phone": "(834)605-5401x937",
+    "age": 45,
+    "membership": "5-Class Pack",
+    "join_date": "2023-11-13",
+    "last_attended": "2025-02-03",
+    "loyalty_points": 68,
+    "retention_risk": "medium",
+    "attendance": [
+      {
+        "date": "2025-01-15",
+        "class_type": "Sculpt",
+        "studio": "Centre-Ville"
+      }
+    ]
+  },
+  {
+    "name": "Marie Welch",
+    "email": "cscott@douglas.com",
+    "phone": "424-874-6790x5409",
+    "age": 59,
+    "membership": "Drop-In",
+    "join_date": "2023-09-13",
+    "last_attended": "2023-11-05",
+    "loyalty_points": 15,
+    "retention_risk": "low",
+    "attendance": [
+      {
+        "date": "2023-08-09",
+        "class_type": "Barre",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2023-10-24",
+        "class_type": "HIIT",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2023-10-15",
+        "class_type": "TRX",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2023-10-29",
+        "class_type": "HIIT",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2023-09-11",
+        "class_type": "Sculpt",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2023-09-27",
+        "class_type": "HIIT",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2023-10-14",
+        "class_type": "Barre",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2023-09-22",
+        "class_type": "Cycle",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2023-09-26",
+        "class_type": "Sculpt",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2023-09-17",
+        "class_type": "Barre",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2023-09-10",
+        "class_type": "Cycle",
+        "studio": "Centre-Ville"
+      }
+    ]
+  },
+  {
+    "name": "James Wilson",
+    "email": "rowlandchad@green-short.org",
+    "phone": "0670632779",
+    "age": 57,
+    "membership": "5-Class Pack",
+    "join_date": "2023-07-18",
+    "last_attended": "2024-10-31",
+    "loyalty_points": 162,
+    "retention_risk": "low",
+    "attendance": [
+      {
+        "date": "2024-08-23",
+        "class_type": "Barre",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-10-23",
+        "class_type": "HIIT",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-09-27",
+        "class_type": "HIIT",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-08-05",
+        "class_type": "Barre",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-07-24",
+        "class_type": "Sculpt",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-09-23",
+        "class_type": "Barre",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-10-30",
+        "class_type": "TRX",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-07-23",
+        "class_type": "Barre",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-07-27",
+        "class_type": "Barre",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-09-28",
+        "class_type": "TRX",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-08-25",
+        "class_type": "HIIT",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-08-08",
+        "class_type": "Cycle",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-09-25",
+        "class_type": "Barre",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-08-12",
+        "class_type": "Barre",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-09-09",
+        "class_type": "HIIT",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-09-10",
+        "class_type": "Barre",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-09-25",
+        "class_type": "Sculpt",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-08-05",
+        "class_type": "HIIT",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-09-09",
+        "class_type": "Cycle",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-08-21",
+        "class_type": "Barre",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-09-26",
+        "class_type": "Sculpt",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-10-01",
+        "class_type": "Sculpt",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-08-06",
+        "class_type": "HIIT",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-08-25",
+        "class_type": "TRX",
+        "studio": "Centre-Ville"
+      }
+    ]
+  },
+  {
+    "name": "Lisa Mercado",
+    "email": "bonillamichael@reilly.com",
+    "phone": "263-630-4940x79913",
+    "age": 21,
+    "membership": "5-Class Pack",
+    "join_date": "2024-02-25",
+    "last_attended": "2024-06-12",
+    "loyalty_points": 394,
+    "retention_risk": "low",
+    "attendance": [
+      {
+        "date": "2024-04-14",
+        "class_type": "Barre",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-05-29",
+        "class_type": "Cycle",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-03-14",
+        "class_type": "HIIT",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-04-25",
+        "class_type": "TRX",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-05-30",
+        "class_type": "Barre",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-04-16",
+        "class_type": "Cycle",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-03-22",
+        "class_type": "TRX",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-06-09",
+        "class_type": "Cycle",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-05-09",
+        "class_type": "Barre",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-04-19",
+        "class_type": "HIIT",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-03-18",
+        "class_type": "Sculpt",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-04-26",
+        "class_type": "Barre",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-04-27",
+        "class_type": "Cycle",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-06-02",
+        "class_type": "Cycle",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-04-15",
+        "class_type": "Barre",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-05-03",
+        "class_type": "Cycle",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-05-17",
+        "class_type": "Sculpt",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-05-26",
+        "class_type": "TRX",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-03-14",
+        "class_type": "Sculpt",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-05-02",
+        "class_type": "Cycle",
+        "studio": "Rockland"
+      }
+    ]
+  },
+  {
+    "name": "Samantha Hudson",
+    "email": "dawnwilliams@crawford-green.org",
+    "phone": "361.584.4314x01461",
+    "age": 23,
+    "membership": "Unlimited",
+    "join_date": "2023-06-15",
+    "last_attended": "2023-07-24",
+    "loyalty_points": 193,
+    "retention_risk": "low",
+    "attendance": [
+      {
+        "date": "2023-05-23",
+        "class_type": "TRX",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2023-04-29",
+        "class_type": "Cycle",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2023-07-05",
+        "class_type": "Barre",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2023-07-10",
+        "class_type": "Barre",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2023-04-19",
+        "class_type": "Cycle",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2023-05-11",
+        "class_type": "TRX",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2023-05-17",
+        "class_type": "Barre",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2023-06-28",
+        "class_type": "HIIT",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2023-05-08",
+        "class_type": "Cycle",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2023-05-04",
+        "class_type": "Sculpt",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2023-05-11",
+        "class_type": "HIIT",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2023-06-08",
+        "class_type": "Sculpt",
+        "studio": "Rockland"
+      }
+    ]
+  },
+  {
+    "name": "Heather Jensen",
+    "email": "connieedwards@gmail.com",
+    "phone": "+1-549-405-0106",
+    "age": 65,
+    "membership": "5-Class Pack",
+    "join_date": "2023-09-10",
+    "last_attended": "2024-02-18",
+    "loyalty_points": 274,
+    "retention_risk": "high",
+    "attendance": [
+      {
+        "date": "2023-11-24",
+        "class_type": "HIIT",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-01-03",
+        "class_type": "HIIT",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2023-11-18",
+        "class_type": "Sculpt",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2023-11-29",
+        "class_type": "Sculpt",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-02-13",
+        "class_type": "Cycle",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2023-12-20",
+        "class_type": "HIIT",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-01-08",
+        "class_type": "Cycle",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-02-12",
+        "class_type": "HIIT",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-01-10",
+        "class_type": "TRX",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-01-31",
+        "class_type": "Barre",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-02-08",
+        "class_type": "Barre",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-01-06",
+        "class_type": "Barre",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2023-12-27",
+        "class_type": "HIIT",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2023-12-27",
+        "class_type": "TRX",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2023-12-08",
+        "class_type": "Cycle",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2023-11-10",
+        "class_type": "Barre",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-01-19",
+        "class_type": "Cycle",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-01-01",
+        "class_type": "Cycle",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-01-28",
+        "class_type": "Sculpt",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2023-12-26",
+        "class_type": "Sculpt",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2023-12-04",
+        "class_type": "Barre",
+        "studio": "Rockland"
+      }
+    ]
+  },
+  {
+    "name": "Kenneth Moss",
+    "email": "daviddavidson@osborne-evans.com",
+    "phone": "+1-867-073-4971x57814",
+    "age": 33,
+    "membership": "Unlimited",
+    "join_date": "2024-04-23",
+    "last_attended": "2024-10-05",
+    "loyalty_points": 366,
+    "retention_risk": "low",
+    "attendance": [
+      {
+        "date": "2024-08-27",
+        "class_type": "Barre",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-07-05",
+        "class_type": "Sculpt",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-09-19",
+        "class_type": "HIIT",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-07-07",
+        "class_type": "Cycle",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-07-26",
+        "class_type": "TRX",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-08-10",
+        "class_type": "TRX",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-09-04",
+        "class_type": "HIIT",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-08-28",
+        "class_type": "Cycle",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-08-29",
+        "class_type": "Barre",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-09-03",
+        "class_type": "Cycle",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-07-22",
+        "class_type": "Cycle",
+        "studio": "Centre-Ville"
+      }
+    ]
+  },
+  {
+    "name": "Christopher Fry",
+    "email": "paul15@gmail.com",
+    "phone": "(665)480-7820x88076",
+    "age": 28,
+    "membership": "Unlimited",
+    "join_date": "2023-06-26",
+    "last_attended": "2024-12-17",
+    "loyalty_points": 115,
+    "retention_risk": "medium",
+    "attendance": []
+  },
+  {
+    "name": "Austin Moreno",
+    "email": "staciechase@thompson.com",
+    "phone": "+1-500-301-4595",
+    "age": 32,
+    "membership": "5-Class Pack",
+    "join_date": "2024-03-15",
+    "last_attended": "2024-04-23",
+    "loyalty_points": 478,
+    "retention_risk": "medium",
+    "attendance": [
+      {
+        "date": "2024-03-15",
+        "class_type": "Cycle",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-04-01",
+        "class_type": "HIIT",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-04-10",
+        "class_type": "Barre",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-03-03",
+        "class_type": "HIIT",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-04-08",
+        "class_type": "HIIT",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-02-27",
+        "class_type": "TRX",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-04-04",
+        "class_type": "TRX",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-02-04",
+        "class_type": "HIIT",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-01-21",
+        "class_type": "TRX",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-02-23",
+        "class_type": "Barre",
+        "studio": "Centre-Ville"
+      }
+    ]
+  },
+  {
+    "name": "Jonathon Sparks",
+    "email": "gmercado@lang.com",
+    "phone": "6554706640",
+    "age": 23,
+    "membership": "Drop-In",
+    "join_date": "2024-12-02",
+    "last_attended": "2024-12-11",
+    "loyalty_points": 287,
+    "retention_risk": "high",
+    "attendance": [
+      {
+        "date": "2024-11-11",
+        "class_type": "HIIT",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-10-05",
+        "class_type": "Cycle",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-10-25",
+        "class_type": "Barre",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-09-07",
+        "class_type": "Barre",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-11-04",
+        "class_type": "Sculpt",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-11-23",
+        "class_type": "HIIT",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-09-22",
+        "class_type": "Cycle",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-09-07",
+        "class_type": "Sculpt",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-12-04",
+        "class_type": "Barre",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-12-06",
+        "class_type": "HIIT",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-10-19",
+        "class_type": "TRX",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-11-23",
+        "class_type": "Sculpt",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-10-02",
+        "class_type": "Cycle",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-11-08",
+        "class_type": "Cycle",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-11-30",
+        "class_type": "TRX",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-10-13",
+        "class_type": "Cycle",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-11-29",
+        "class_type": "Barre",
+        "studio": "Rockland"
+      }
+    ]
+  },
+  {
+    "name": "Dennis Cruz",
+    "email": "kwilson@hotmail.com",
+    "phone": "(242)255-1281",
+    "age": 26,
+    "membership": "10-Class Pack",
+    "join_date": "2023-09-02",
+    "last_attended": "2023-09-23",
+    "loyalty_points": 110,
+    "retention_risk": "low",
+    "attendance": [
+      {
+        "date": "2023-08-09",
+        "class_type": "Sculpt",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2023-07-27",
+        "class_type": "HIIT",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2023-08-04",
+        "class_type": "Barre",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2023-07-11",
+        "class_type": "HIIT",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2023-06-22",
+        "class_type": "Sculpt",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2023-09-04",
+        "class_type": "Cycle",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2023-06-25",
+        "class_type": "Barre",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2023-08-16",
+        "class_type": "Barre",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2023-08-11",
+        "class_type": "HIIT",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2023-08-12",
+        "class_type": "HIIT",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2023-09-03",
+        "class_type": "Barre",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2023-06-30",
+        "class_type": "HIIT",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2023-09-14",
+        "class_type": "TRX",
+        "studio": "Westmount"
+      }
+    ]
+  },
+  {
+    "name": "Mr. Daniel Lee",
+    "email": "rrojas@thomas.com",
+    "phone": "+1-923-709-4205",
+    "age": 33,
+    "membership": "5-Class Pack",
+    "join_date": "2023-07-31",
+    "last_attended": "2024-03-05",
+    "loyalty_points": 210,
+    "retention_risk": "medium",
+    "attendance": [
+      {
+        "date": "2024-03-02",
+        "class_type": "HIIT",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-02-19",
+        "class_type": "Sculpt",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2023-12-14",
+        "class_type": "Cycle",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2023-12-14",
+        "class_type": "HIIT",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-01-26",
+        "class_type": "Sculpt",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-02-10",
+        "class_type": "Cycle",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2023-12-11",
+        "class_type": "TRX",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-01-06",
+        "class_type": "Sculpt",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-03-02",
+        "class_type": "HIIT",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-01-09",
+        "class_type": "Sculpt",
+        "studio": "Vieux-Port"
+      }
+    ]
+  },
+  {
+    "name": "Misty Watson",
+    "email": "montesshari@yahoo.com",
+    "phone": "575-956-2802x562",
+    "age": 59,
+    "membership": "5-Class Pack",
+    "join_date": "2023-07-07",
+    "last_attended": "2024-02-02",
+    "loyalty_points": 315,
+    "retention_risk": "low",
+    "attendance": [
+      {
+        "date": "2023-12-25",
+        "class_type": "Cycle",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-01-30",
+        "class_type": "Sculpt",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-01-21",
+        "class_type": "Cycle",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2023-10-26",
+        "class_type": "Sculpt",
+        "studio": "Rockland"
+      }
+    ]
+  },
+  {
+    "name": "Brian Ross",
+    "email": "robinholmes@barrera.com",
+    "phone": "518-916-3907x0545",
+    "age": 48,
+    "membership": "10-Class Pack",
+    "join_date": "2023-08-08",
+    "last_attended": "2024-01-27",
+    "loyalty_points": 232,
+    "retention_risk": "medium",
+    "attendance": [
+      {
+        "date": "2023-12-01",
+        "class_type": "Sculpt",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2023-12-21",
+        "class_type": "Cycle",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2023-11-22",
+        "class_type": "Barre",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2023-12-04",
+        "class_type": "HIIT",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2023-10-22",
+        "class_type": "Sculpt",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-01-02",
+        "class_type": "Barre",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2023-10-28",
+        "class_type": "HIIT",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-01-12",
+        "class_type": "Sculpt",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-01-16",
+        "class_type": "TRX",
+        "studio": "Vieux-Port"
+      }
+    ]
+  },
+  {
+    "name": "Mary Mckay",
+    "email": "hawkinsrobert@gmail.com",
+    "phone": "001-830-819-6041x97846",
+    "age": 29,
+    "membership": "Unlimited",
+    "join_date": "2023-10-22",
+    "last_attended": "2024-11-12",
+    "loyalty_points": 397,
+    "retention_risk": "low",
+    "attendance": [
+      {
+        "date": "2024-08-23",
+        "class_type": "Cycle",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-10-14",
+        "class_type": "Barre",
+        "studio": "Centre-Ville"
+      }
+    ]
+  },
+  {
+    "name": "Ashley Thomas",
+    "email": "charlotte76@hotmail.com",
+    "phone": "018-832-1864x962",
+    "age": 27,
+    "membership": "5-Class Pack",
+    "join_date": "2024-01-24",
+    "last_attended": "2024-04-13",
+    "loyalty_points": 377,
+    "retention_risk": "low",
+    "attendance": []
+  },
+  {
+    "name": "Kristen Martinez",
+    "email": "terryhubbard@adams.com",
+    "phone": "809.405.4649x6112",
+    "age": 30,
+    "membership": "Drop-In",
+    "join_date": "2024-07-03",
+    "last_attended": "2024-08-10",
+    "loyalty_points": 454,
+    "retention_risk": "high",
+    "attendance": [
+      {
+        "date": "2024-08-03",
+        "class_type": "Barre",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-07-30",
+        "class_type": "Sculpt",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-06-07",
+        "class_type": "TRX",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-07-11",
+        "class_type": "Barre",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-05-31",
+        "class_type": "HIIT",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-05-29",
+        "class_type": "Barre",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-06-02",
+        "class_type": "Sculpt",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-05-12",
+        "class_type": "TRX",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-07-17",
+        "class_type": "Barre",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-07-11",
+        "class_type": "Cycle",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-08-01",
+        "class_type": "Cycle",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-08-05",
+        "class_type": "TRX",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-06-17",
+        "class_type": "Cycle",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-07-14",
+        "class_type": "Cycle",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-06-02",
+        "class_type": "Barre",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-05-27",
+        "class_type": "Sculpt",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-05-11",
+        "class_type": "Cycle",
+        "studio": "Westmount"
+      }
+    ]
+  },
+  {
+    "name": "Joseph Stone",
+    "email": "mark55@gates-rogers.com",
+    "phone": "(519)011-0199",
+    "age": 27,
+    "membership": "Unlimited",
+    "join_date": "2023-12-01",
+    "last_attended": "2025-04-01",
+    "loyalty_points": 285,
+    "retention_risk": "low",
+    "attendance": [
+      {
+        "date": "2025-03-20",
+        "class_type": "Cycle",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2025-03-14",
+        "class_type": "Barre",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2025-02-02",
+        "class_type": "HIIT",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-12-30",
+        "class_type": "Barre",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-12-29",
+        "class_type": "Barre",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2025-02-02",
+        "class_type": "Sculpt",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2025-02-07",
+        "class_type": "HIIT",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2025-03-12",
+        "class_type": "Barre",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2025-03-30",
+        "class_type": "Cycle",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2025-01-04",
+        "class_type": "HIIT",
+        "studio": "Centre-Ville"
+      }
+    ]
+  },
+  {
+    "name": "Danielle Mendez",
+    "email": "navarrobrian@mendoza.com",
+    "phone": "001-320-095-6385x3018",
+    "age": 53,
+    "membership": "Unlimited",
+    "join_date": "2023-11-05",
+    "last_attended": "2025-02-15",
+    "loyalty_points": 412,
+    "retention_risk": "medium",
+    "attendance": [
+      {
+        "date": "2024-11-12",
+        "class_type": "Barre",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2025-01-07",
+        "class_type": "TRX",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-11-25",
+        "class_type": "Cycle",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-11-11",
+        "class_type": "HIIT",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-12-29",
+        "class_type": "Cycle",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2025-01-04",
+        "class_type": "HIIT",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-11-28",
+        "class_type": "TRX",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-11-07",
+        "class_type": "Sculpt",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2025-01-14",
+        "class_type": "Sculpt",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-12-20",
+        "class_type": "Sculpt",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-11-24",
+        "class_type": "HIIT",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-12-22",
+        "class_type": "Barre",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2025-02-01",
+        "class_type": "Barre",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2025-01-27",
+        "class_type": "Cycle",
+        "studio": "Westmount"
+      }
+    ]
+  },
+  {
+    "name": "Karen Harris",
+    "email": "cameronroberts@gmail.com",
+    "phone": "(248)932-4618",
+    "age": 37,
+    "membership": "5-Class Pack",
+    "join_date": "2023-07-04",
+    "last_attended": "2023-10-01",
+    "loyalty_points": 177,
+    "retention_risk": "high",
+    "attendance": [
+      {
+        "date": "2023-07-11",
+        "class_type": "Barre",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2023-07-14",
+        "class_type": "Barre",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2023-09-11",
+        "class_type": "HIIT",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2023-09-24",
+        "class_type": "Sculpt",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2023-08-22",
+        "class_type": "TRX",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2023-09-04",
+        "class_type": "Sculpt",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2023-07-26",
+        "class_type": "HIIT",
+        "studio": "Rockland"
+      }
+    ]
+  },
+  {
+    "name": "John Beltran",
+    "email": "nguyenalice@gmail.com",
+    "phone": "+1-903-868-2016x215",
+    "age": 48,
+    "membership": "5-Class Pack",
+    "join_date": "2023-07-08",
+    "last_attended": "2025-01-21",
+    "loyalty_points": 263,
+    "retention_risk": "low",
+    "attendance": [
+      {
+        "date": "2024-10-25",
+        "class_type": "Cycle",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-12-21",
+        "class_type": "Sculpt",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-11-27",
+        "class_type": "HIIT",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2025-01-10",
+        "class_type": "HIIT",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-11-17",
+        "class_type": "Barre",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-12-20",
+        "class_type": "Cycle",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-12-25",
+        "class_type": "Cycle",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-12-31",
+        "class_type": "Cycle",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-11-10",
+        "class_type": "HIIT",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-12-21",
+        "class_type": "TRX",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-10-18",
+        "class_type": "Cycle",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-12-14",
+        "class_type": "HIIT",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-11-12",
+        "class_type": "Barre",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-10-16",
+        "class_type": "Barre",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-10-14",
+        "class_type": "Barre",
+        "studio": "Westmount"
+      }
+    ]
+  },
+  {
+    "name": "Madison Hardy",
+    "email": "wwilliams@jones.com",
+    "phone": "(547)274-5626",
+    "age": 36,
+    "membership": "Unlimited",
+    "join_date": "2024-08-19",
+    "last_attended": "2024-12-13",
+    "loyalty_points": 127,
+    "retention_risk": "low",
+    "attendance": [
+      {
+        "date": "2024-11-13",
+        "class_type": "Cycle",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-09-07",
+        "class_type": "Sculpt",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-09-20",
+        "class_type": "Cycle",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-11-07",
+        "class_type": "Cycle",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-12-06",
+        "class_type": "Barre",
+        "studio": "Centre-Ville"
+      }
+    ]
+  },
+  {
+    "name": "Todd Reid",
+    "email": "clopez@mcdaniel.com",
+    "phone": "(464)198-7979",
+    "age": 36,
+    "membership": "Unlimited",
+    "join_date": "2023-12-17",
+    "last_attended": "2024-04-22",
+    "loyalty_points": 455,
+    "retention_risk": "low",
+    "attendance": [
+      {
+        "date": "2024-03-03",
+        "class_type": "TRX",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-02-24",
+        "class_type": "Barre",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-03-06",
+        "class_type": "Sculpt",
+        "studio": "Rockland"
+      }
+    ]
+  },
+  {
+    "name": "Henry Duncan",
+    "email": "reynoldsdevin@harrison.com",
+    "phone": "001-781-477-5853",
+    "age": 20,
+    "membership": "5-Class Pack",
+    "join_date": "2023-08-22",
+    "last_attended": "2024-08-24",
+    "loyalty_points": 272,
+    "retention_risk": "low",
+    "attendance": [
+      {
+        "date": "2024-08-01",
+        "class_type": "Cycle",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-05-30",
+        "class_type": "Sculpt",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-07-02",
+        "class_type": "Barre",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-08-15",
+        "class_type": "Barre",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-05-30",
+        "class_type": "HIIT",
+        "studio": "Westmount"
+      }
+    ]
+  },
+  {
+    "name": "Isaiah Martin",
+    "email": "daniel07@aguirre.com",
+    "phone": "566.103.2096x248",
+    "age": 60,
+    "membership": "10-Class Pack",
+    "join_date": "2024-04-05",
+    "last_attended": "2024-09-10",
+    "loyalty_points": 264,
+    "retention_risk": "low",
+    "attendance": [
+      {
+        "date": "2024-06-25",
+        "class_type": "Barre",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-07-28",
+        "class_type": "Barre",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-08-22",
+        "class_type": "Sculpt",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-08-30",
+        "class_type": "TRX",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-08-02",
+        "class_type": "HIIT",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-06-27",
+        "class_type": "TRX",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-07-25",
+        "class_type": "HIIT",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-06-08",
+        "class_type": "TRX",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-07-27",
+        "class_type": "Cycle",
+        "studio": "Rockland"
+      }
+    ]
+  },
+  {
+    "name": "Emily Love",
+    "email": "jennifer08@yahoo.com",
+    "phone": "+1-526-706-0256",
+    "age": 48,
+    "membership": "Drop-In",
+    "join_date": "2025-02-20",
+    "last_attended": "2025-03-24",
+    "loyalty_points": 224,
+    "retention_risk": "high",
+    "attendance": [
+      {
+        "date": "2024-12-19",
+        "class_type": "Sculpt",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2025-01-10",
+        "class_type": "HIIT",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2025-02-27",
+        "class_type": "TRX",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-12-22",
+        "class_type": "Cycle",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2025-03-07",
+        "class_type": "Cycle",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2025-01-23",
+        "class_type": "TRX",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-12-27",
+        "class_type": "Barre",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2025-01-04",
+        "class_type": "Cycle",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2025-01-15",
+        "class_type": "Barre",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2025-03-04",
+        "class_type": "HIIT",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2025-02-12",
+        "class_type": "Cycle",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2025-01-17",
+        "class_type": "HIIT",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2025-03-23",
+        "class_type": "HIIT",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2025-03-16",
+        "class_type": "Cycle",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2025-03-16",
+        "class_type": "Sculpt",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-12-18",
+        "class_type": "HIIT",
+        "studio": "Rockland"
+      }
+    ]
+  },
+  {
+    "name": "Brandy Gill",
+    "email": "john63@vargas-alvarez.com",
+    "phone": "639-296-8974x173",
+    "age": 64,
+    "membership": "Drop-In",
+    "join_date": "2024-10-29",
+    "last_attended": "2025-01-24",
+    "loyalty_points": 334,
+    "retention_risk": "high",
+    "attendance": [
+      {
+        "date": "2024-10-30",
+        "class_type": "HIIT",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-10-29",
+        "class_type": "Sculpt",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-12-24",
+        "class_type": "Sculpt",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-11-04",
+        "class_type": "Cycle",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2025-01-13",
+        "class_type": "TRX",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2025-01-15",
+        "class_type": "HIIT",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2025-01-10",
+        "class_type": "Sculpt",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-12-27",
+        "class_type": "TRX",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-12-20",
+        "class_type": "HIIT",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-11-12",
+        "class_type": "Barre",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-10-18",
+        "class_type": "Cycle",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-11-03",
+        "class_type": "Cycle",
+        "studio": "Centre-Ville"
+      }
+    ]
+  },
+  {
+    "name": "Victoria Harris",
+    "email": "scottmichael@nicholson-patel.com",
+    "phone": "(251)437-5173",
+    "age": 62,
+    "membership": "10-Class Pack",
+    "join_date": "2023-06-02",
+    "last_attended": "2024-08-02",
+    "loyalty_points": 414,
+    "retention_risk": "low",
+    "attendance": [
+      {
+        "date": "2024-07-14",
+        "class_type": "Sculpt",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-05-04",
+        "class_type": "Barre",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-06-22",
+        "class_type": "Cycle",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-07-01",
+        "class_type": "Cycle",
+        "studio": "Westmount"
+      }
+    ]
+  },
+  {
+    "name": "Brian Jones",
+    "email": "colerebecca@hotmail.com",
+    "phone": "295-180-4747x435",
+    "age": 26,
+    "membership": "10-Class Pack",
+    "join_date": "2024-05-09",
+    "last_attended": "2025-03-20",
+    "loyalty_points": 58,
+    "retention_risk": "low",
+    "attendance": [
+      {
+        "date": "2025-01-01",
+        "class_type": "TRX",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2025-01-11",
+        "class_type": "Sculpt",
+        "studio": "Centre-Ville"
+      }
+    ]
+  },
+  {
+    "name": "Andrea Cervantes",
+    "email": "deannasimmons@hotmail.com",
+    "phone": "9188856645",
+    "age": 39,
+    "membership": "Unlimited",
+    "join_date": "2024-08-06",
+    "last_attended": "2025-02-14",
+    "loyalty_points": 447,
+    "retention_risk": "low",
+    "attendance": [
+      {
+        "date": "2024-12-19",
+        "class_type": "HIIT",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-12-15",
+        "class_type": "Sculpt",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2025-01-09",
+        "class_type": "Barre",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2025-01-24",
+        "class_type": "Barre",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2025-02-01",
+        "class_type": "Barre",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2025-01-29",
+        "class_type": "Sculpt",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-12-21",
+        "class_type": "Cycle",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-11-16",
+        "class_type": "Sculpt",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2025-01-24",
+        "class_type": "Sculpt",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2025-01-27",
+        "class_type": "TRX",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-12-16",
+        "class_type": "HIIT",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2025-01-14",
+        "class_type": "HIIT",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-12-08",
+        "class_type": "Barre",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2025-02-11",
+        "class_type": "HIIT",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2025-02-04",
+        "class_type": "Sculpt",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2025-02-02",
+        "class_type": "TRX",
+        "studio": "Vieux-Port"
+      }
+    ]
+  },
+  {
+    "name": "Robin Austin MD",
+    "email": "kimberlyvasquez@gmail.com",
+    "phone": "+1-046-507-4881",
+    "age": 42,
+    "membership": "Unlimited",
+    "join_date": "2024-03-23",
+    "last_attended": "2024-08-19",
+    "loyalty_points": 239,
+    "retention_risk": "low",
+    "attendance": [
+      {
+        "date": "2024-06-17",
+        "class_type": "HIIT",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-05-18",
+        "class_type": "TRX",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-07-17",
+        "class_type": "HIIT",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-08-02",
+        "class_type": "Sculpt",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-05-25",
+        "class_type": "Sculpt",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-05-15",
+        "class_type": "HIIT",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-06-11",
+        "class_type": "HIIT",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-05-27",
+        "class_type": "Sculpt",
+        "studio": "Vieux-Port"
+      }
+    ]
+  },
+  {
+    "name": "Frederick Townsend",
+    "email": "sarahtaylor@gmail.com",
+    "phone": "956.674.9338x3072",
+    "age": 57,
+    "membership": "Unlimited",
+    "join_date": "2024-07-03",
+    "last_attended": "2025-03-14",
+    "loyalty_points": 241,
+    "retention_risk": "low",
+    "attendance": [
+      {
+        "date": "2025-02-22",
+        "class_type": "Barre",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2025-01-23",
+        "class_type": "HIIT",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-12-22",
+        "class_type": "Cycle",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-12-19",
+        "class_type": "TRX",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-12-05",
+        "class_type": "Cycle",
+        "studio": "Vieux-Port"
+      }
+    ]
+  },
+  {
+    "name": "Lindsay Barton",
+    "email": "kristine67@gmail.com",
+    "phone": "+1-627-401-6304x6550",
+    "age": 63,
+    "membership": "10-Class Pack",
+    "join_date": "2023-05-22",
+    "last_attended": "2024-02-14",
+    "loyalty_points": 15,
+    "retention_risk": "medium",
+    "attendance": [
+      {
+        "date": "2024-01-18",
+        "class_type": "Barre",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2023-12-21",
+        "class_type": "Barre",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-02-13",
+        "class_type": "Barre",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-01-19",
+        "class_type": "Barre",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2023-12-10",
+        "class_type": "Cycle",
+        "studio": "Vieux-Port"
+      }
+    ]
+  },
+  {
+    "name": "Tracy Mercado",
+    "email": "baldwinjesse@gmail.com",
+    "phone": "001-473-310-2664x726",
+    "age": 53,
+    "membership": "10-Class Pack",
+    "join_date": "2024-11-19",
+    "last_attended": "2025-01-24",
+    "loyalty_points": 257,
+    "retention_risk": "low",
+    "attendance": [
+      {
+        "date": "2025-01-04",
+        "class_type": "Sculpt",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2025-01-05",
+        "class_type": "Sculpt",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-11-27",
+        "class_type": "Cycle",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-12-25",
+        "class_type": "Cycle",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-12-26",
+        "class_type": "Cycle",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-12-03",
+        "class_type": "HIIT",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2025-01-02",
+        "class_type": "Cycle",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-11-11",
+        "class_type": "Cycle",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-12-09",
+        "class_type": "Cycle",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2025-01-21",
+        "class_type": "HIIT",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-11-09",
+        "class_type": "Barre",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-11-04",
+        "class_type": "Cycle",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-12-16",
+        "class_type": "HIIT",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-11-18",
+        "class_type": "Sculpt",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2025-01-09",
+        "class_type": "HIIT",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-10-21",
+        "class_type": "Cycle",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-12-30",
+        "class_type": "HIIT",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-10-23",
+        "class_type": "HIIT",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2025-01-01",
+        "class_type": "TRX",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-11-29",
+        "class_type": "Barre",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-11-02",
+        "class_type": "Sculpt",
+        "studio": "Centre-Ville"
+      }
+    ]
+  },
+  {
+    "name": "Breanna Roach",
+    "email": "melissamartinez@hotmail.com",
+    "phone": "001-229-058-9884x86391",
+    "age": 27,
+    "membership": "Drop-In",
+    "join_date": "2024-05-14",
+    "last_attended": "2024-11-14",
+    "loyalty_points": 110,
+    "retention_risk": "low",
+    "attendance": [
+      {
+        "date": "2024-09-07",
+        "class_type": "Cycle",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-08-06",
+        "class_type": "HIIT",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-08-18",
+        "class_type": "Sculpt",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-11-06",
+        "class_type": "Sculpt",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-09-02",
+        "class_type": "Barre",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-09-04",
+        "class_type": "TRX",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-09-20",
+        "class_type": "Sculpt",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-08-20",
+        "class_type": "Barre",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-10-26",
+        "class_type": "TRX",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-10-22",
+        "class_type": "Cycle",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-09-24",
+        "class_type": "Cycle",
+        "studio": "Centre-Ville"
+      }
+    ]
+  },
+  {
+    "name": "Omar Townsend",
+    "email": "jeffreyblackwell@hotmail.com",
+    "phone": "(724)007-1399x474",
+    "age": 59,
+    "membership": "5-Class Pack",
+    "join_date": "2023-12-26",
+    "last_attended": "2024-01-18",
+    "loyalty_points": 114,
+    "retention_risk": "low",
+    "attendance": [
+      {
+        "date": "2023-11-05",
+        "class_type": "Sculpt",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2023-11-27",
+        "class_type": "Cycle",
+        "studio": "Westmount"
+      }
+    ]
+  },
+  {
+    "name": "Samuel Andrade",
+    "email": "michaelbrewer@frost-williams.com",
+    "phone": "001-511-279-3828x214",
+    "age": 19,
+    "membership": "Unlimited",
+    "join_date": "2025-02-12",
+    "last_attended": "2025-03-10",
+    "loyalty_points": 324,
+    "retention_risk": "low",
+    "attendance": [
+      {
+        "date": "2025-02-21",
+        "class_type": "TRX",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2025-01-04",
+        "class_type": "Barre",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2025-02-03",
+        "class_type": "TRX",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-12-13",
+        "class_type": "Cycle",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2025-01-14",
+        "class_type": "Cycle",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2025-01-16",
+        "class_type": "TRX",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2025-02-12",
+        "class_type": "Sculpt",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2025-02-14",
+        "class_type": "Cycle",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2025-01-21",
+        "class_type": "TRX",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-12-02",
+        "class_type": "TRX",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2025-01-12",
+        "class_type": "Sculpt",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2025-01-04",
+        "class_type": "Barre",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2025-02-28",
+        "class_type": "TRX",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2025-02-10",
+        "class_type": "Cycle",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2025-02-22",
+        "class_type": "Sculpt",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2025-02-04",
+        "class_type": "Barre",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2025-01-15",
+        "class_type": "TRX",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2025-01-23",
+        "class_type": "Cycle",
+        "studio": "Westmount"
+      }
+    ]
+  },
+  {
+    "name": "David Wu",
+    "email": "karenbarry@scott.com",
+    "phone": "001-426-895-4700x308",
+    "age": 31,
+    "membership": "5-Class Pack",
+    "join_date": "2023-10-11",
+    "last_attended": "2025-01-30",
+    "loyalty_points": 410,
+    "retention_risk": "low",
+    "attendance": [
+      {
+        "date": "2025-01-26",
+        "class_type": "Sculpt",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2025-01-05",
+        "class_type": "Sculpt",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-12-28",
+        "class_type": "Barre",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2025-01-27",
+        "class_type": "Barre",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-12-20",
+        "class_type": "TRX",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-11-04",
+        "class_type": "HIIT",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-10-29",
+        "class_type": "Cycle",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-12-14",
+        "class_type": "Sculpt",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-12-19",
+        "class_type": "Sculpt",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-12-28",
+        "class_type": "HIIT",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-11-26",
+        "class_type": "Sculpt",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-10-31",
+        "class_type": "Cycle",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-12-14",
+        "class_type": "TRX",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2025-01-15",
+        "class_type": "TRX",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2025-01-19",
+        "class_type": "Sculpt",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-12-30",
+        "class_type": "Barre",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2025-01-17",
+        "class_type": "Barre",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2025-01-20",
+        "class_type": "Sculpt",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2025-01-18",
+        "class_type": "TRX",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-11-17",
+        "class_type": "TRX",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-11-26",
+        "class_type": "Cycle",
+        "studio": "Westmount"
+      }
+    ]
+  },
+  {
+    "name": "Amanda Brock",
+    "email": "djackson@wood.net",
+    "phone": "+1-825-433-2063",
+    "age": 65,
+    "membership": "Drop-In",
+    "join_date": "2024-08-21",
+    "last_attended": "2024-10-30",
+    "loyalty_points": 175,
+    "retention_risk": "low",
+    "attendance": [
+      {
+        "date": "2024-09-10",
+        "class_type": "HIIT",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-09-10",
+        "class_type": "Sculpt",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-09-02",
+        "class_type": "HIIT",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-09-10",
+        "class_type": "Barre",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-09-27",
+        "class_type": "HIIT",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-10-16",
+        "class_type": "Barre",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-10-24",
+        "class_type": "Barre",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-10-06",
+        "class_type": "HIIT",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-10-05",
+        "class_type": "Cycle",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-08-25",
+        "class_type": "Cycle",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-08-27",
+        "class_type": "Barre",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-09-01",
+        "class_type": "HIIT",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-08-15",
+        "class_type": "Cycle",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-09-09",
+        "class_type": "HIIT",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-10-14",
+        "class_type": "Cycle",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-10-23",
+        "class_type": "Barre",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-08-08",
+        "class_type": "TRX",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-10-26",
+        "class_type": "Cycle",
+        "studio": "Rockland"
+      }
+    ]
+  },
+  {
+    "name": "John Wells",
+    "email": "ngarcia@phillips-rodriguez.com",
+    "phone": "128.139.4193x27836",
+    "age": 52,
+    "membership": "5-Class Pack",
+    "join_date": "2023-07-30",
+    "last_attended": "2025-02-08",
+    "loyalty_points": 319,
+    "retention_risk": "medium",
+    "attendance": [
+      {
+        "date": "2024-12-20",
+        "class_type": "Sculpt",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-12-19",
+        "class_type": "Barre",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-11-02",
+        "class_type": "Cycle",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2025-01-03",
+        "class_type": "HIIT",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-12-13",
+        "class_type": "Sculpt",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-11-14",
+        "class_type": "Cycle",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2025-01-17",
+        "class_type": "Barre",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-11-01",
+        "class_type": "HIIT",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-11-17",
+        "class_type": "Barre",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-11-21",
+        "class_type": "TRX",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-12-14",
+        "class_type": "Sculpt",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-12-11",
+        "class_type": "Cycle",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-12-13",
+        "class_type": "Sculpt",
+        "studio": "Westmount"
+      }
+    ]
+  },
+  {
+    "name": "Heidi Campbell",
+    "email": "wendy89@yahoo.com",
+    "phone": "001-837-205-9554x090",
+    "age": 22,
+    "membership": "Unlimited",
+    "join_date": "2024-10-04",
+    "last_attended": "2024-12-11",
+    "loyalty_points": 98,
+    "retention_risk": "medium",
+    "attendance": [
+      {
+        "date": "2024-11-01",
+        "class_type": "Sculpt",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-12-06",
+        "class_type": "Cycle",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-10-08",
+        "class_type": "Sculpt",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-09-04",
+        "class_type": "Cycle",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-10-31",
+        "class_type": "Barre",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-09-05",
+        "class_type": "Cycle",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-11-09",
+        "class_type": "Sculpt",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-10-16",
+        "class_type": "Sculpt",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-10-13",
+        "class_type": "Cycle",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-09-06",
+        "class_type": "Sculpt",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-09-28",
+        "class_type": "Sculpt",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-10-23",
+        "class_type": "HIIT",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-10-02",
+        "class_type": "Cycle",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-09-12",
+        "class_type": "TRX",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-10-06",
+        "class_type": "TRX",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-09-10",
+        "class_type": "TRX",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-10-22",
+        "class_type": "Barre",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-10-18",
+        "class_type": "HIIT",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-09-14",
+        "class_type": "Sculpt",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-09-29",
+        "class_type": "HIIT",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-10-22",
+        "class_type": "HIIT",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-10-02",
+        "class_type": "TRX",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-10-09",
+        "class_type": "HIIT",
+        "studio": "Vieux-Port"
+      }
+    ]
+  },
+  {
+    "name": "Michael Johnson",
+    "email": "clarkpaula@gmail.com",
+    "phone": "(802)322-1775x36642",
+    "age": 35,
+    "membership": "10-Class Pack",
+    "join_date": "2023-06-07",
+    "last_attended": "2024-04-16",
+    "loyalty_points": 33,
+    "retention_risk": "medium",
+    "attendance": [
+      {
+        "date": "2024-02-14",
+        "class_type": "TRX",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-04-05",
+        "class_type": "HIIT",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-01-16",
+        "class_type": "Cycle",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-04-05",
+        "class_type": "Cycle",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-03-31",
+        "class_type": "HIIT",
+        "studio": "Vieux-Port"
+      }
+    ]
+  },
+  {
+    "name": "Sally Hobbs",
+    "email": "mcdonaldheather@archer.org",
+    "phone": "(247)050-4816x413",
+    "age": 46,
+    "membership": "Drop-In",
+    "join_date": "2024-05-06",
+    "last_attended": "2025-03-14",
+    "loyalty_points": 354,
+    "retention_risk": "low",
+    "attendance": [
+      {
+        "date": "2024-12-05",
+        "class_type": "Sculpt",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2025-02-24",
+        "class_type": "Cycle",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2025-02-11",
+        "class_type": "TRX",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2025-03-11",
+        "class_type": "HIIT",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2025-01-08",
+        "class_type": "HIIT",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2025-02-13",
+        "class_type": "Sculpt",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2025-01-16",
+        "class_type": "TRX",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2025-02-02",
+        "class_type": "Barre",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2025-02-23",
+        "class_type": "Sculpt",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-12-11",
+        "class_type": "TRX",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-12-11",
+        "class_type": "Cycle",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2025-03-05",
+        "class_type": "Cycle",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2025-03-03",
+        "class_type": "TRX",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-12-30",
+        "class_type": "Cycle",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2025-01-18",
+        "class_type": "Barre",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2025-03-10",
+        "class_type": "TRX",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2025-02-24",
+        "class_type": "HIIT",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2025-02-05",
+        "class_type": "Barre",
+        "studio": "Westmount"
+      }
+    ]
+  },
+  {
+    "name": "Christopher Gray",
+    "email": "traviscook@gmail.com",
+    "phone": "(618)884-1223",
+    "age": 51,
+    "membership": "10-Class Pack",
+    "join_date": "2023-08-04",
+    "last_attended": "2023-09-29",
+    "loyalty_points": 432,
+    "retention_risk": "low",
+    "attendance": [
+      {
+        "date": "2023-07-14",
+        "class_type": "TRX",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2023-07-03",
+        "class_type": "HIIT",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2023-08-27",
+        "class_type": "Cycle",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2023-09-01",
+        "class_type": "Barre",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2023-08-03",
+        "class_type": "HIIT",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2023-08-01",
+        "class_type": "Sculpt",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2023-08-01",
+        "class_type": "Barre",
+        "studio": "Centre-Ville"
+      }
+    ]
+  },
+  {
+    "name": "Kristin Sanchez",
+    "email": "andersoncatherine@yahoo.com",
+    "phone": "(376)874-9009x9987",
+    "age": 23,
+    "membership": "5-Class Pack",
+    "join_date": "2023-10-18",
+    "last_attended": "2024-08-07",
+    "loyalty_points": 10,
+    "retention_risk": "medium",
+    "attendance": [
+      {
+        "date": "2024-05-09",
+        "class_type": "Sculpt",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-05-14",
+        "class_type": "HIIT",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-05-18",
+        "class_type": "Barre",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-05-02",
+        "class_type": "TRX",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-05-01",
+        "class_type": "Cycle",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-07-28",
+        "class_type": "TRX",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-05-12",
+        "class_type": "TRX",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-06-17",
+        "class_type": "Barre",
+        "studio": "Centre-Ville"
+      }
+    ]
+  },
+  {
+    "name": "Isabel Hall",
+    "email": "renee45@miller.com",
+    "phone": "278-714-5301",
+    "age": 34,
+    "membership": "Drop-In",
+    "join_date": "2024-05-02",
+    "last_attended": "2025-02-14",
+    "loyalty_points": 346,
+    "retention_risk": "low",
+    "attendance": [
+      {
+        "date": "2025-01-07",
+        "class_type": "HIIT",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2025-02-07",
+        "class_type": "Sculpt",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-12-15",
+        "class_type": "HIIT",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2025-01-30",
+        "class_type": "TRX",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-12-15",
+        "class_type": "Barre",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-12-31",
+        "class_type": "HIIT",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2025-01-01",
+        "class_type": "TRX",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2025-01-11",
+        "class_type": "Cycle",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2025-02-03",
+        "class_type": "TRX",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-11-16",
+        "class_type": "TRX",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-12-13",
+        "class_type": "TRX",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2025-01-30",
+        "class_type": "HIIT",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2025-01-27",
+        "class_type": "Barre",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2025-01-17",
+        "class_type": "Sculpt",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2025-01-23",
+        "class_type": "HIIT",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2025-02-04",
+        "class_type": "TRX",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-12-22",
+        "class_type": "Sculpt",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-11-20",
+        "class_type": "Barre",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2025-01-04",
+        "class_type": "Sculpt",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-11-19",
+        "class_type": "TRX",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2025-01-28",
+        "class_type": "Sculpt",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-12-28",
+        "class_type": "Sculpt",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-11-18",
+        "class_type": "Sculpt",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2025-01-03",
+        "class_type": "HIIT",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-11-10",
+        "class_type": "Sculpt",
+        "studio": "Centre-Ville"
+      }
+    ]
+  },
+  {
+    "name": "Ryan Jarvis",
+    "email": "ojohnson@yahoo.com",
+    "phone": "001-817-496-8728x00556",
+    "age": 30,
+    "membership": "Drop-In",
+    "join_date": "2024-01-03",
+    "last_attended": "2024-08-31",
+    "loyalty_points": 329,
+    "retention_risk": "high",
+    "attendance": [
+      {
+        "date": "2024-08-15",
+        "class_type": "TRX",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-08-03",
+        "class_type": "Sculpt",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-08-15",
+        "class_type": "Cycle",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-08-01",
+        "class_type": "Cycle",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-07-05",
+        "class_type": "Barre",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-06-21",
+        "class_type": "Barre",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-07-23",
+        "class_type": "TRX",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-08-17",
+        "class_type": "Barre",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-06-12",
+        "class_type": "HIIT",
+        "studio": "Vieux-Port"
+      }
+    ]
+  },
+  {
+    "name": "Stacey Dunn",
+    "email": "drubio@yahoo.com",
+    "phone": "981.655.9347",
+    "age": 53,
+    "membership": "5-Class Pack",
+    "join_date": "2024-03-31",
+    "last_attended": "2025-01-03",
+    "loyalty_points": 145,
+    "retention_risk": "medium",
+    "attendance": [
+      {
+        "date": "2024-12-20",
+        "class_type": "TRX",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-11-12",
+        "class_type": "HIIT",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-11-14",
+        "class_type": "HIIT",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-11-19",
+        "class_type": "HIIT",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-10-15",
+        "class_type": "TRX",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-10-23",
+        "class_type": "TRX",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-11-29",
+        "class_type": "Cycle",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-11-08",
+        "class_type": "Barre",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-10-16",
+        "class_type": "TRX",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2025-01-01",
+        "class_type": "Cycle",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-12-25",
+        "class_type": "Cycle",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-12-16",
+        "class_type": "HIIT",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-12-22",
+        "class_type": "Cycle",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-10-25",
+        "class_type": "Sculpt",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-12-03",
+        "class_type": "Barre",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-12-21",
+        "class_type": "HIIT",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-10-20",
+        "class_type": "HIIT",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-10-13",
+        "class_type": "Sculpt",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-10-16",
+        "class_type": "Sculpt",
+        "studio": "Centre-Ville"
+      }
+    ]
+  },
+  {
+    "name": "Amber Hernandez",
+    "email": "fgarza@hotmail.com",
+    "phone": "001-746-030-9538x645",
+    "age": 37,
+    "membership": "Drop-In",
+    "join_date": "2023-06-25",
+    "last_attended": "2023-11-01",
+    "loyalty_points": 488,
+    "retention_risk": "high",
+    "attendance": [
+      {
+        "date": "2023-10-05",
+        "class_type": "Barre",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2023-08-25",
+        "class_type": "Barre",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2023-10-18",
+        "class_type": "Sculpt",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2023-08-31",
+        "class_type": "HIIT",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2023-08-18",
+        "class_type": "TRX",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2023-10-20",
+        "class_type": "Cycle",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2023-07-29",
+        "class_type": "Cycle",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2023-10-01",
+        "class_type": "HIIT",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2023-10-16",
+        "class_type": "HIIT",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2023-08-08",
+        "class_type": "TRX",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2023-08-09",
+        "class_type": "HIIT",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2023-07-27",
+        "class_type": "TRX",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2023-08-07",
+        "class_type": "TRX",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2023-09-29",
+        "class_type": "TRX",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2023-10-27",
+        "class_type": "Cycle",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2023-08-08",
+        "class_type": "Sculpt",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2023-09-07",
+        "class_type": "Sculpt",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2023-08-13",
+        "class_type": "Barre",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2023-08-01",
+        "class_type": "TRX",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2023-10-30",
+        "class_type": "TRX",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2023-08-30",
+        "class_type": "HIIT",
+        "studio": "Centre-Ville"
+      }
+    ]
+  },
+  {
+    "name": "Eric French",
+    "email": "huberwilliam@francis.com",
+    "phone": "848-722-3718x862",
+    "age": 48,
+    "membership": "Unlimited",
+    "join_date": "2024-01-31",
+    "last_attended": "2024-12-30",
+    "loyalty_points": 114,
+    "retention_risk": "low",
+    "attendance": [
+      {
+        "date": "2024-11-23",
+        "class_type": "Cycle",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-12-22",
+        "class_type": "Barre",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-12-02",
+        "class_type": "HIIT",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-11-30",
+        "class_type": "HIIT",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-12-17",
+        "class_type": "TRX",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-10-03",
+        "class_type": "Sculpt",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-10-14",
+        "class_type": "Barre",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-10-08",
+        "class_type": "HIIT",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-11-09",
+        "class_type": "Sculpt",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-11-10",
+        "class_type": "TRX",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-11-20",
+        "class_type": "Cycle",
+        "studio": "Westmount"
+      }
+    ]
+  },
+  {
+    "name": "Paul Nunez",
+    "email": "matthewowens@yahoo.com",
+    "phone": "+1-998-782-9994x76924",
+    "age": 30,
+    "membership": "Unlimited",
+    "join_date": "2024-03-15",
+    "last_attended": "2024-08-15",
+    "loyalty_points": 379,
+    "retention_risk": "medium",
+    "attendance": [
+      {
+        "date": "2024-07-11",
+        "class_type": "Cycle",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-05-08",
+        "class_type": "Cycle",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-05-16",
+        "class_type": "Cycle",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-06-06",
+        "class_type": "TRX",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-07-28",
+        "class_type": "HIIT",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-08-03",
+        "class_type": "HIIT",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-07-11",
+        "class_type": "TRX",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-05-07",
+        "class_type": "Barre",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-05-18",
+        "class_type": "HIIT",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-06-28",
+        "class_type": "Sculpt",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-07-13",
+        "class_type": "Barre",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-07-26",
+        "class_type": "Sculpt",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-08-07",
+        "class_type": "Sculpt",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-08-07",
+        "class_type": "TRX",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-07-13",
+        "class_type": "Cycle",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-05-25",
+        "class_type": "HIIT",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-07-29",
+        "class_type": "HIIT",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-08-11",
+        "class_type": "Cycle",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-07-20",
+        "class_type": "HIIT",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-06-11",
+        "class_type": "TRX",
+        "studio": "Vieux-Port"
+      }
+    ]
+  },
+  {
+    "name": "Rebekah Clark",
+    "email": "reevesgeorge@holden.info",
+    "phone": "2075072449",
+    "age": 60,
+    "membership": "Unlimited",
+    "join_date": "2025-03-05",
+    "last_attended": "2025-03-20",
+    "loyalty_points": 500,
+    "retention_risk": "high",
+    "attendance": [
+      {
+        "date": "2025-01-31",
+        "class_type": "Cycle",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2025-02-05",
+        "class_type": "Barre",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2025-02-28",
+        "class_type": "Barre",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-12-17",
+        "class_type": "TRX",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2025-01-22",
+        "class_type": "Sculpt",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-12-10",
+        "class_type": "HIIT",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2025-01-25",
+        "class_type": "Sculpt",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2025-03-18",
+        "class_type": "Cycle",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2025-01-27",
+        "class_type": "Sculpt",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-12-20",
+        "class_type": "Sculpt",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-12-22",
+        "class_type": "Cycle",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2025-02-19",
+        "class_type": "TRX",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2025-03-01",
+        "class_type": "HIIT",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2025-01-06",
+        "class_type": "Cycle",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2025-03-12",
+        "class_type": "Barre",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2025-01-29",
+        "class_type": "Barre",
+        "studio": "Rockland"
+      }
+    ]
+  },
+  {
+    "name": "Alan Wilson",
+    "email": "reedpaul@yahoo.com",
+    "phone": "(175)217-9376x36997",
+    "age": 20,
+    "membership": "Unlimited",
+    "join_date": "2024-01-16",
+    "last_attended": "2024-08-23",
+    "loyalty_points": 450,
+    "retention_risk": "medium",
+    "attendance": [
+      {
+        "date": "2024-06-17",
+        "class_type": "Barre",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-05-17",
+        "class_type": "Barre",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-07-28",
+        "class_type": "TRX",
+        "studio": "Vieux-Port"
+      }
+    ]
+  },
+  {
+    "name": "Julie Farmer",
+    "email": "patricia59@gmail.com",
+    "phone": "769-667-1891x714",
+    "age": 22,
+    "membership": "Unlimited",
+    "join_date": "2025-02-18",
+    "last_attended": "2025-03-15",
+    "loyalty_points": 204,
+    "retention_risk": "low",
+    "attendance": [
+      {
+        "date": "2025-02-27",
+        "class_type": "TRX",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-12-28",
+        "class_type": "Cycle",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2025-01-28",
+        "class_type": "Cycle",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2025-01-11",
+        "class_type": "Barre",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2025-02-15",
+        "class_type": "Cycle",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-12-15",
+        "class_type": "Cycle",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2025-02-28",
+        "class_type": "HIIT",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2025-01-27",
+        "class_type": "Cycle",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-12-14",
+        "class_type": "Barre",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2025-01-12",
+        "class_type": "Sculpt",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2025-03-06",
+        "class_type": "HIIT",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2025-01-16",
+        "class_type": "Sculpt",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-12-29",
+        "class_type": "HIIT",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2025-03-01",
+        "class_type": "Barre",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2025-03-01",
+        "class_type": "TRX",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-12-11",
+        "class_type": "Cycle",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2025-03-05",
+        "class_type": "TRX",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-12-27",
+        "class_type": "TRX",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2025-01-27",
+        "class_type": "Sculpt",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2025-02-27",
+        "class_type": "TRX",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2025-01-18",
+        "class_type": "TRX",
+        "studio": "Vieux-Port"
+      }
+    ]
+  },
+  {
+    "name": "Melissa Norton",
+    "email": "josephaguilar@martinez.biz",
+    "phone": "929.350.5263x610",
+    "age": 37,
+    "membership": "Unlimited",
+    "join_date": "2023-09-08",
+    "last_attended": "2025-03-08",
+    "loyalty_points": 165,
+    "retention_risk": "low",
+    "attendance": [
+      {
+        "date": "2025-02-16",
+        "class_type": "Sculpt",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2025-01-10",
+        "class_type": "Cycle",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2025-01-19",
+        "class_type": "TRX",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2025-01-19",
+        "class_type": "HIIT",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2025-02-24",
+        "class_type": "HIIT",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2025-02-07",
+        "class_type": "Barre",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2025-01-04",
+        "class_type": "HIIT",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2025-01-11",
+        "class_type": "Barre",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2025-01-21",
+        "class_type": "TRX",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2025-01-17",
+        "class_type": "HIIT",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2025-03-07",
+        "class_type": "Cycle",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2025-01-30",
+        "class_type": "Sculpt",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2025-02-23",
+        "class_type": "TRX",
+        "studio": "Westmount"
+      }
+    ]
+  },
+  {
+    "name": "Eric Martinez",
+    "email": "wanda32@yahoo.com",
+    "phone": "001-300-896-7657x424",
+    "age": 27,
+    "membership": "Unlimited",
+    "join_date": "2024-03-05",
+    "last_attended": "2024-07-21",
+    "loyalty_points": 271,
+    "retention_risk": "medium",
+    "attendance": [
+      {
+        "date": "2024-05-11",
+        "class_type": "TRX",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-07-15",
+        "class_type": "HIIT",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-05-27",
+        "class_type": "Barre",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-06-21",
+        "class_type": "Barre",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-07-20",
+        "class_type": "Barre",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-06-13",
+        "class_type": "Sculpt",
+        "studio": "Rockland"
+      }
+    ]
+  },
+  {
+    "name": "Mikayla Shepard",
+    "email": "ashley92@allen.com",
+    "phone": "545.769.3092x1130",
+    "age": 35,
+    "membership": "10-Class Pack",
+    "join_date": "2024-11-26",
+    "last_attended": "2025-03-20",
+    "loyalty_points": 25,
+    "retention_risk": "high",
+    "attendance": [
+      {
+        "date": "2024-12-24",
+        "class_type": "Sculpt",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2025-02-27",
+        "class_type": "Cycle",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2025-01-07",
+        "class_type": "Sculpt",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2025-02-17",
+        "class_type": "TRX",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2025-02-05",
+        "class_type": "Barre",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2025-01-10",
+        "class_type": "TRX",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2025-01-30",
+        "class_type": "TRX",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2025-01-24",
+        "class_type": "Sculpt",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2025-01-02",
+        "class_type": "HIIT",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2025-02-02",
+        "class_type": "Barre",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2025-02-15",
+        "class_type": "Sculpt",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2025-01-29",
+        "class_type": "Sculpt",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-12-25",
+        "class_type": "Sculpt",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2025-01-30",
+        "class_type": "Sculpt",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-12-26",
+        "class_type": "Barre",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-12-26",
+        "class_type": "Sculpt",
+        "studio": "Vieux-Port"
+      }
+    ]
+  },
+  {
+    "name": "Lynn Kim",
+    "email": "jamesallen@andersen.info",
+    "phone": "2709890027",
+    "age": 25,
+    "membership": "10-Class Pack",
+    "join_date": "2023-04-29",
+    "last_attended": "2024-09-02",
+    "loyalty_points": 337,
+    "retention_risk": "low",
+    "attendance": [
+      {
+        "date": "2024-07-28",
+        "class_type": "TRX",
+        "studio": "Centre-Ville"
+      }
+    ]
+  },
+  {
+    "name": "Robert Davidson",
+    "email": "joshuagreen@medina.org",
+    "phone": "6202096836",
+    "age": 32,
+    "membership": "Unlimited",
+    "join_date": "2023-10-12",
+    "last_attended": "2025-03-16",
+    "loyalty_points": 165,
+    "retention_risk": "medium",
+    "attendance": [
+      {
+        "date": "2025-01-20",
+        "class_type": "HIIT",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2025-02-08",
+        "class_type": "Sculpt",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2025-01-15",
+        "class_type": "Barre",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2025-03-02",
+        "class_type": "Cycle",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2025-02-16",
+        "class_type": "HIIT",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2025-01-01",
+        "class_type": "TRX",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-12-13",
+        "class_type": "Barre",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-12-12",
+        "class_type": "TRX",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2025-03-02",
+        "class_type": "Cycle",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-12-30",
+        "class_type": "Sculpt",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2025-01-07",
+        "class_type": "Sculpt",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2025-01-21",
+        "class_type": "Barre",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-12-21",
+        "class_type": "Cycle",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2025-03-02",
+        "class_type": "Cycle",
+        "studio": "Westmount"
+      }
+    ]
+  },
+  {
+    "name": "Mr. Jermaine Taylor V",
+    "email": "qwhite@gmail.com",
+    "phone": "+1-900-360-0415",
+    "age": 37,
+    "membership": "Drop-In",
+    "join_date": "2024-11-29",
+    "last_attended": "2025-03-05",
+    "loyalty_points": 14,
+    "retention_risk": "medium",
+    "attendance": [
+      {
+        "date": "2024-12-06",
+        "class_type": "Sculpt",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2025-02-27",
+        "class_type": "Cycle",
+        "studio": "Westmount"
+      }
+    ]
+  },
+  {
+    "name": "Hannah Mcgee",
+    "email": "peckandrew@hotmail.com",
+    "phone": "160.370.9252x60190",
+    "age": 39,
+    "membership": "5-Class Pack",
+    "join_date": "2024-10-27",
+    "last_attended": "2024-12-03",
+    "loyalty_points": 130,
+    "retention_risk": "low",
+    "attendance": [
+      {
+        "date": "2024-12-01",
+        "class_type": "Sculpt",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-10-29",
+        "class_type": "HIIT",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-10-15",
+        "class_type": "HIIT",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-10-22",
+        "class_type": "TRX",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-10-23",
+        "class_type": "HIIT",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-09-02",
+        "class_type": "TRX",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-08-31",
+        "class_type": "HIIT",
+        "studio": "Rockland"
+      }
+    ]
+  },
+  {
+    "name": "Allison Clark",
+    "email": "sarah82@acosta.com",
+    "phone": "099-092-1266",
+    "age": 21,
+    "membership": "5-Class Pack",
+    "join_date": "2024-08-14",
+    "last_attended": "2024-11-22",
+    "loyalty_points": 351,
+    "retention_risk": "low",
+    "attendance": [
+      {
+        "date": "2024-08-31",
+        "class_type": "TRX",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-10-13",
+        "class_type": "Cycle",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-11-02",
+        "class_type": "Sculpt",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-10-20",
+        "class_type": "TRX",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-09-24",
+        "class_type": "TRX",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-09-12",
+        "class_type": "Barre",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-09-29",
+        "class_type": "Cycle",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-11-18",
+        "class_type": "TRX",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-09-23",
+        "class_type": "TRX",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-10-08",
+        "class_type": "Barre",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-09-26",
+        "class_type": "Sculpt",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-10-07",
+        "class_type": "Barre",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-09-09",
+        "class_type": "HIIT",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-11-13",
+        "class_type": "TRX",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-11-09",
+        "class_type": "Sculpt",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-10-27",
+        "class_type": "TRX",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-10-08",
+        "class_type": "Cycle",
+        "studio": "Vieux-Port"
+      }
+    ]
+  },
+  {
+    "name": "Julia Wilson",
+    "email": "lisaduncan@marsh.info",
+    "phone": "001-739-631-3671x37886",
+    "age": 35,
+    "membership": "Unlimited",
+    "join_date": "2024-10-10",
+    "last_attended": "2024-12-18",
+    "loyalty_points": 145,
+    "retention_risk": "high",
+    "attendance": [
+      {
+        "date": "2024-12-11",
+        "class_type": "Sculpt",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-10-24",
+        "class_type": "Barre",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-11-26",
+        "class_type": "Barre",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-09-19",
+        "class_type": "Cycle",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-12-07",
+        "class_type": "TRX",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-09-18",
+        "class_type": "TRX",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-10-31",
+        "class_type": "Sculpt",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-10-30",
+        "class_type": "Sculpt",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-12-06",
+        "class_type": "TRX",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-11-22",
+        "class_type": "Barre",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-09-18",
+        "class_type": "Cycle",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-09-12",
+        "class_type": "HIIT",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-09-23",
+        "class_type": "Barre",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-10-02",
+        "class_type": "Sculpt",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-10-14",
+        "class_type": "Cycle",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-10-19",
+        "class_type": "Sculpt",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-09-22",
+        "class_type": "Barre",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-10-15",
+        "class_type": "Cycle",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-10-12",
+        "class_type": "Barre",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-11-15",
+        "class_type": "Cycle",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-09-10",
+        "class_type": "TRX",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-10-01",
+        "class_type": "HIIT",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-11-27",
+        "class_type": "Barre",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-09-23",
+        "class_type": "Cycle",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-10-10",
+        "class_type": "Cycle",
+        "studio": "Vieux-Port"
+      }
+    ]
+  },
+  {
+    "name": "Carl Huff",
+    "email": "christopherroberts@larson.net",
+    "phone": "2930121079",
+    "age": 27,
+    "membership": "Unlimited",
+    "join_date": "2024-12-07",
+    "last_attended": "2025-02-25",
+    "loyalty_points": 254,
+    "retention_risk": "low",
+    "attendance": [
+      {
+        "date": "2025-02-12",
+        "class_type": "HIIT",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-11-17",
+        "class_type": "HIIT",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-11-25",
+        "class_type": "Barre",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-11-19",
+        "class_type": "HIIT",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2025-01-15",
+        "class_type": "Barre",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2025-02-11",
+        "class_type": "Cycle",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-12-16",
+        "class_type": "HIIT",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-12-20",
+        "class_type": "HIIT",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2025-02-18",
+        "class_type": "Cycle",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-12-09",
+        "class_type": "HIIT",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2025-01-25",
+        "class_type": "Cycle",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-12-18",
+        "class_type": "TRX",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-12-20",
+        "class_type": "Cycle",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-12-27",
+        "class_type": "HIIT",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-11-30",
+        "class_type": "HIIT",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-12-02",
+        "class_type": "Sculpt",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2025-01-11",
+        "class_type": "TRX",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-12-21",
+        "class_type": "Sculpt",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2025-01-04",
+        "class_type": "TRX",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-11-27",
+        "class_type": "TRX",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-12-25",
+        "class_type": "HIIT",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2025-01-04",
+        "class_type": "Sculpt",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2025-02-17",
+        "class_type": "TRX",
+        "studio": "Westmount"
+      }
+    ]
+  },
+  {
+    "name": "Theresa English",
+    "email": "mistyscott@yahoo.com",
+    "phone": "+1-968-320-0435x42420",
+    "age": 31,
+    "membership": "10-Class Pack",
+    "join_date": "2024-09-02",
+    "last_attended": "2024-11-16",
+    "loyalty_points": 338,
+    "retention_risk": "high",
+    "attendance": [
+      {
+        "date": "2024-10-10",
+        "class_type": "Barre",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-10-15",
+        "class_type": "HIIT",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-10-02",
+        "class_type": "Barre",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-09-27",
+        "class_type": "Sculpt",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-09-19",
+        "class_type": "HIIT",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-10-07",
+        "class_type": "Sculpt",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-11-15",
+        "class_type": "TRX",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-11-02",
+        "class_type": "Cycle",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-08-21",
+        "class_type": "Sculpt",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-10-07",
+        "class_type": "Cycle",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-10-06",
+        "class_type": "TRX",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-11-03",
+        "class_type": "Sculpt",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-09-28",
+        "class_type": "TRX",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-11-11",
+        "class_type": "Sculpt",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-10-13",
+        "class_type": "Barre",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-09-02",
+        "class_type": "Sculpt",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-09-21",
+        "class_type": "HIIT",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-10-09",
+        "class_type": "HIIT",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-09-10",
+        "class_type": "Barre",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-09-05",
+        "class_type": "Cycle",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-11-07",
+        "class_type": "Cycle",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-10-17",
+        "class_type": "HIIT",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-10-13",
+        "class_type": "TRX",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-08-12",
+        "class_type": "Sculpt",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-08-27",
+        "class_type": "Sculpt",
+        "studio": "Rockland"
+      }
+    ]
+  },
+  {
+    "name": "Daniel Mitchell",
+    "email": "websterbeth@yahoo.com",
+    "phone": "759.334.8197",
+    "age": 47,
+    "membership": "10-Class Pack",
+    "join_date": "2023-09-19",
+    "last_attended": "2024-12-13",
+    "loyalty_points": 410,
+    "retention_risk": "low",
+    "attendance": [
+      {
+        "date": "2024-09-09",
+        "class_type": "HIIT",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-10-12",
+        "class_type": "TRX",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-09-11",
+        "class_type": "HIIT",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-10-11",
+        "class_type": "TRX",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-12-12",
+        "class_type": "HIIT",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-10-17",
+        "class_type": "Cycle",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-10-24",
+        "class_type": "Cycle",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-09-12",
+        "class_type": "Barre",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-11-04",
+        "class_type": "TRX",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-11-23",
+        "class_type": "HIIT",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-10-13",
+        "class_type": "Cycle",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-11-04",
+        "class_type": "Sculpt",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-11-14",
+        "class_type": "Cycle",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-09-29",
+        "class_type": "HIIT",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-12-07",
+        "class_type": "TRX",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-10-13",
+        "class_type": "Barre",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-10-08",
+        "class_type": "HIIT",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-11-02",
+        "class_type": "Barre",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-09-21",
+        "class_type": "Sculpt",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-10-03",
+        "class_type": "Barre",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-10-29",
+        "class_type": "Cycle",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-11-10",
+        "class_type": "Barre",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-11-03",
+        "class_type": "Cycle",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-12-11",
+        "class_type": "Barre",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-10-01",
+        "class_type": "TRX",
+        "studio": "Vieux-Port"
+      }
+    ]
+  },
+  {
+    "name": "Rachel Davis",
+    "email": "donaldlarson@gmail.com",
+    "phone": "(010)882-8257",
+    "age": 64,
+    "membership": "Drop-In",
+    "join_date": "2024-05-01",
+    "last_attended": "2024-05-22",
+    "loyalty_points": 70,
+    "retention_risk": "low",
+    "attendance": [
+      {
+        "date": "2024-05-19",
+        "class_type": "Cycle",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-04-16",
+        "class_type": "HIIT",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-03-21",
+        "class_type": "HIIT",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-04-19",
+        "class_type": "TRX",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-04-04",
+        "class_type": "HIIT",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-03-08",
+        "class_type": "Cycle",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-03-12",
+        "class_type": "Barre",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-04-12",
+        "class_type": "Barre",
+        "studio": "Centre-Ville"
+      }
+    ]
+  },
+  {
+    "name": "Julia Lopez",
+    "email": "hcoleman@yahoo.com",
+    "phone": "1392913822",
+    "age": 25,
+    "membership": "5-Class Pack",
+    "join_date": "2023-09-22",
+    "last_attended": "2024-10-04",
+    "loyalty_points": 500,
+    "retention_risk": "low",
+    "attendance": [
+      {
+        "date": "2024-09-03",
+        "class_type": "Cycle",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-09-06",
+        "class_type": "Sculpt",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-06-28",
+        "class_type": "Cycle",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-08-16",
+        "class_type": "Cycle",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-07-12",
+        "class_type": "Sculpt",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-07-02",
+        "class_type": "Sculpt",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-09-11",
+        "class_type": "Sculpt",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-07-27",
+        "class_type": "Sculpt",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-09-17",
+        "class_type": "TRX",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-07-27",
+        "class_type": "HIIT",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-08-14",
+        "class_type": "Sculpt",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-08-27",
+        "class_type": "Sculpt",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-09-02",
+        "class_type": "TRX",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-09-18",
+        "class_type": "HIIT",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-06-29",
+        "class_type": "Sculpt",
+        "studio": "Centre-Ville"
+      }
+    ]
+  },
+  {
+    "name": "Amanda Koch",
+    "email": "nyoung@hotmail.com",
+    "phone": "(523)778-8515x53652",
+    "age": 35,
+    "membership": "10-Class Pack",
+    "join_date": "2023-04-30",
+    "last_attended": "2023-06-12",
+    "loyalty_points": 9,
+    "retention_risk": "low",
+    "attendance": [
+      {
+        "date": "2023-05-24",
+        "class_type": "Barre",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2023-03-11",
+        "class_type": "Barre",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2023-05-07",
+        "class_type": "HIIT",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2023-05-24",
+        "class_type": "Barre",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2023-04-17",
+        "class_type": "TRX",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2023-05-15",
+        "class_type": "Cycle",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2023-05-27",
+        "class_type": "Barre",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2023-03-19",
+        "class_type": "HIIT",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2023-03-18",
+        "class_type": "TRX",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2023-05-04",
+        "class_type": "Barre",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2023-05-30",
+        "class_type": "HIIT",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2023-03-23",
+        "class_type": "TRX",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2023-04-25",
+        "class_type": "Cycle",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2023-03-30",
+        "class_type": "Barre",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2023-06-05",
+        "class_type": "Cycle",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2023-05-24",
+        "class_type": "Barre",
+        "studio": "Westmount"
+      }
+    ]
+  },
+  {
+    "name": "Jill Phelps",
+    "email": "kathleenphillips@hotmail.com",
+    "phone": "765.250.0458",
+    "age": 48,
+    "membership": "5-Class Pack",
+    "join_date": "2023-06-25",
+    "last_attended": "2023-09-15",
+    "loyalty_points": 67,
+    "retention_risk": "medium",
+    "attendance": [
+      {
+        "date": "2023-07-10",
+        "class_type": "Cycle",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2023-07-27",
+        "class_type": "Cycle",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2023-08-03",
+        "class_type": "Sculpt",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2023-06-09",
+        "class_type": "Sculpt",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2023-08-22",
+        "class_type": "Sculpt",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2023-06-25",
+        "class_type": "Barre",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2023-07-03",
+        "class_type": "Cycle",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2023-08-29",
+        "class_type": "Barre",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2023-07-29",
+        "class_type": "Barre",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2023-07-01",
+        "class_type": "Sculpt",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2023-08-25",
+        "class_type": "HIIT",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2023-07-15",
+        "class_type": "Sculpt",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2023-08-19",
+        "class_type": "Barre",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2023-08-02",
+        "class_type": "TRX",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2023-09-01",
+        "class_type": "HIIT",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2023-07-18",
+        "class_type": "HIIT",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2023-08-02",
+        "class_type": "HIIT",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2023-09-13",
+        "class_type": "Cycle",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2023-07-06",
+        "class_type": "Cycle",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2023-08-11",
+        "class_type": "Sculpt",
+        "studio": "Rockland"
+      }
+    ]
+  },
+  {
+    "name": "Laura Fernandez",
+    "email": "samuel37@gmail.com",
+    "phone": "8488252491",
+    "age": 56,
+    "membership": "Unlimited",
+    "join_date": "2023-06-28",
+    "last_attended": "2023-07-04",
+    "loyalty_points": 306,
+    "retention_risk": "low",
+    "attendance": [
+      {
+        "date": "2023-05-14",
+        "class_type": "Barre",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2023-06-15",
+        "class_type": "HIIT",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2023-04-09",
+        "class_type": "HIIT",
+        "studio": "Vieux-Port"
+      }
+    ]
+  },
+  {
+    "name": "Shannon Lee",
+    "email": "cjohnson@hoffman-murphy.com",
+    "phone": "001-780-186-2473x10622",
+    "age": 22,
+    "membership": "Unlimited",
+    "join_date": "2024-06-29",
+    "last_attended": "2024-07-13",
+    "loyalty_points": 341,
+    "retention_risk": "low",
+    "attendance": [
+      {
+        "date": "2024-06-01",
+        "class_type": "Barre",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-06-26",
+        "class_type": "Cycle",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-06-08",
+        "class_type": "HIIT",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-06-20",
+        "class_type": "Barre",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-04-25",
+        "class_type": "HIIT",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-05-07",
+        "class_type": "Barre",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-05-02",
+        "class_type": "Sculpt",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-05-14",
+        "class_type": "TRX",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-06-29",
+        "class_type": "HIIT",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-04-29",
+        "class_type": "HIIT",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-06-04",
+        "class_type": "Sculpt",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-06-27",
+        "class_type": "HIIT",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-04-28",
+        "class_type": "Cycle",
+        "studio": "Centre-Ville"
+      }
+    ]
+  },
+  {
+    "name": "Timothy West",
+    "email": "nicolebrown@patton-edwards.com",
+    "phone": "001-074-625-9910",
+    "age": 22,
+    "membership": "5-Class Pack",
+    "join_date": "2024-11-25",
+    "last_attended": "2025-01-02",
+    "loyalty_points": 91,
+    "retention_risk": "low",
+    "attendance": [
+      {
+        "date": "2024-11-01",
+        "class_type": "HIIT",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-10-08",
+        "class_type": "Cycle",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-11-01",
+        "class_type": "Cycle",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-11-30",
+        "class_type": "TRX",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-10-08",
+        "class_type": "Cycle",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-12-03",
+        "class_type": "TRX",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-11-25",
+        "class_type": "Cycle",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-12-14",
+        "class_type": "Barre",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-11-13",
+        "class_type": "Cycle",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-11-19",
+        "class_type": "Cycle",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-12-05",
+        "class_type": "Cycle",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-12-30",
+        "class_type": "HIIT",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-12-28",
+        "class_type": "Barre",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-11-09",
+        "class_type": "Sculpt",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-12-27",
+        "class_type": "HIIT",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-11-29",
+        "class_type": "Barre",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-12-08",
+        "class_type": "TRX",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-11-23",
+        "class_type": "HIIT",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-11-01",
+        "class_type": "HIIT",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-12-23",
+        "class_type": "Barre",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-11-28",
+        "class_type": "Cycle",
+        "studio": "Rockland"
+      }
+    ]
+  },
+  {
+    "name": "Karen Bray",
+    "email": "nguyenkimberly@hooper.com",
+    "phone": "(520)239-8697x13343",
+    "age": 34,
+    "membership": "10-Class Pack",
+    "join_date": "2023-12-24",
+    "last_attended": "2025-01-13",
+    "loyalty_points": 407,
+    "retention_risk": "low",
+    "attendance": [
+      {
+        "date": "2024-12-17",
+        "class_type": "Sculpt",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-11-22",
+        "class_type": "Cycle",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-10-07",
+        "class_type": "HIIT",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-12-03",
+        "class_type": "Sculpt",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-12-28",
+        "class_type": "TRX",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-12-25",
+        "class_type": "Cycle",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-10-11",
+        "class_type": "HIIT",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-11-29",
+        "class_type": "Barre",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-11-19",
+        "class_type": "Cycle",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-11-22",
+        "class_type": "TRX",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2025-01-08",
+        "class_type": "HIIT",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-12-13",
+        "class_type": "Cycle",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-11-06",
+        "class_type": "HIIT",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-12-13",
+        "class_type": "HIIT",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-10-12",
+        "class_type": "Barre",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-12-20",
+        "class_type": "TRX",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-12-16",
+        "class_type": "TRX",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-11-15",
+        "class_type": "Barre",
+        "studio": "Centre-Ville"
+      },
+      {
+        "date": "2024-11-16",
+        "class_type": "Barre",
+        "studio": "Westmount"
+      }
+    ]
+  },
+  {
+    "name": "Douglas Figueroa",
+    "email": "jessica18@hotmail.com",
+    "phone": "+1-769-173-2907x854",
+    "age": 45,
+    "membership": "10-Class Pack",
+    "join_date": "2024-09-09",
+    "last_attended": "2025-02-03",
+    "loyalty_points": 53,
+    "retention_risk": "medium",
+    "attendance": [
+      {
+        "date": "2025-01-24",
+        "class_type": "HIIT",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2025-02-02",
+        "class_type": "HIIT",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-12-04",
+        "class_type": "Cycle",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-12-27",
+        "class_type": "Barre",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2024-11-16",
+        "class_type": "Sculpt",
+        "studio": "Vieux-Port"
+      },
+      {
+        "date": "2024-11-02",
+        "class_type": "Sculpt",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2025-01-14",
+        "class_type": "TRX",
+        "studio": "Westmount"
+      },
+      {
+        "date": "2024-11-14",
+        "class_type": "Barre",
+        "studio": "Rockland"
+      },
+      {
+        "date": "2025-01-06",
+        "class_type": "TRX",
+        "studio": "Vieux-Port"
+      }
+    ]
+  }
+]

@@ -1,0 +1,171 @@
+{
+  "classes_offered": {
+    "CYCLE": [
+      {
+        "name": "Signature Ride",
+        "description": "A dynamic cycling experience combining interval training and upper-body movements."
+      },
+      {
+        "name": "Performance",
+        "description": "Focuses on speed, resistance intervals, and custom performance challenges with leaderboard tracking."
+      },
+      {
+        "name": "b.eat",
+        "description": "A rhythm-based ride with no performance metrics, designed to sync your movement with music."
+      }
+    ],
+    "BODY": [
+      {
+        "name": "Barre",
+        "description": "A low-impact, high-intensity workout that blends ballet, Pilates, and strength training."
+      },
+      {
+        "name": "Sculpt",
+        "description": "Slow, controlled movements that tone and strengthen."
+      },
+      {
+        "name": "TRX Barre",
+        "description": "Suspension training meets barre \u2014 challenges strength and balance."
+      },
+      {
+        "name": "HIIT",
+        "description": "High-Intensity Interval Training for fast-paced strength and cardio."
+      }
+    ]
+  },
+  "studio_locations": {
+    "Centre-Ville": "2000 McGill College Ave #140, Montreal",
+    "Westmount": "1500 Atwater Avenue, Montreal",
+    "Vieux-Port": "601 de la Gaucheti\u00e8re West, Montreal",
+    "Rockland": "2305 Chemin Rockland, Mount Royal, Quebec"
+  },
+  "virtual_studio": {
+    "platform": "b.home",
+    "offers": [
+      "live",
+      "on-demand"
+    ],
+    "includes": [
+      "CYCLE",
+      "BODY"
+    ],
+    "membership_plans": [
+      "monthly",
+      "yearly"
+    ],
+    "bike_rental_price": "starting at $14.95/week"
+  },
+  "booking_policies": {
+    "general": [
+      "Members must book classes online or via phone.",
+      "Arrive at least 15 minutes early, especially if it's your first time.",
+      "Late entries are not allowed once the class begins.",
+      "If you don't check in at least 5 minutes before class, your spot may be given away."
+    ],
+    "waitlist": [
+      "Join if class is full.",
+      "Automatic booking if a spot opens before 6 PM the day before.",
+      "After 6 PM, first-come, first-served via email."
+    ],
+    "cancellation": {
+      "deadline": "Before 6 PM the night before",
+      "fees": {
+        "unlimited_members": {
+          "late_cancel": "$15",
+          "no_show": "$25"
+        },
+        "dropin_or_pack": {
+          "penalty": "lose a session"
+        }
+      }
+    }
+  },
+  "freeze_policy": {
+    "conditions": [
+      "medical reasons (doctor note)",
+      "travel (proof required)"
+    ],
+    "limit": "28 days per year"
+  },
+  "amenities": [
+    "Showers with organic Oneka products",
+    "Fresh towels and hairdryers",
+    "Filtered water refill stations",
+    "Water for sale"
+  ],
+  "footwear": {
+    "provided": "Free spin shoes (bring socks)",
+    "own_shoes_allowed": true,
+    "pedal_compatibility": {
+      "SPD": true,
+      "Look-Delta": true
+    },
+    "body_classes": "barefoot"
+  },
+  "private_events": {
+    "available_for": [
+      "birthdays",
+      "bachelorettes",
+      "team-building"
+    ],
+    "customizable": [
+      "instructor",
+      "playlist",
+      "format"
+    ],
+    "booking": "online"
+  },
+  "contact": {
+    "studios": "email or phone (see website)",
+    "website_forms": [
+      "student rates",
+      "freeze requests"
+    ]
+  },
+  "other_info": {
+    "final_sale": true,
+    "non_transferable": true,
+    "rules_required": true
+  },
+  "bingo_challenge": {
+    "name": "B.ingo Challenge",
+    "dates": "April 1 - April 28, 2025",
+    "summary": "4-week challenge with bingo cards for attending various classes and activities",
+    "entries": {
+      "row": 1,
+      "perfect_card": 12
+    },
+    "package": {
+      "name": "B.INGO package",
+      "details": "16 classes in 4 weeks for $246",
+      "validity": "April 1\u201328 only"
+    },
+    "instructions": [
+      "Pick up card at front desk",
+      "Register and submit completed card",
+      "Submit via photo using Airtable QR code"
+    ],
+    "submit_deadline": "April 29 at 12 PM",
+    "booking_window": {
+      "B.ingo": "7 days",
+      "Memberships": "14 days"
+    },
+    "freeze_note": "Memberships can be frozen to participate, schedule visibility still applies",
+    "double_counting": true,
+    "prizes": {
+      "grand": "12-month unlimited membership",
+      "runnerups": {
+        "3_month": 4,
+        "1_month": 8
+      },
+      "conditions": "Activate immediately, freeze allowed with doctor note"
+    }
+  },
+  "renovation": {
+    "studio": "Westmount",
+    "status": "Completed with final details pending insurance",
+    "message": "Clients can now enjoy an upgraded and refreshed studio experience"
+  },
+  "last_updated": "April 4, 2025",
+  "source": "https://bcyclespin.com/en/"
+}

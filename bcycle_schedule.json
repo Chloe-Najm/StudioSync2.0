@@ -1,0 +1,996 @@
+{
+  "Sheet1": [
+    {
+      "Day": "Friday",
+      "Time": "7:00 AM",
+      "Studio": "Vieux-Port",
+      "Class Name": "cycle - signature 45",
+      "Class Type": "CYCLE",
+      "Instructor": "Laura"
+    },
+    {
+      "Day": "Friday",
+      "Time": "7:15 AM",
+      "Studio": "Vieux-Port",
+      "Class Name": "body - latinx abs & booty 45",
+      "Class Type": "BODY",
+      "Instructor": "Val\u00e9rie L."
+    },
+    {
+      "Day": "Friday",
+      "Time": "12:00 PM",
+      "Studio": "Vieux-Port",
+      "Class Name": "cycle - one hit wonder 45",
+      "Class Type": "CYCLE",
+      "Instructor": "Mimi"
+    },
+    {
+      "Day": "Friday",
+      "Time": "12:15 PM",
+      "Studio": "Vieux-Port",
+      "Class Name": "body - trx barre 45",
+      "Class Type": "BODY",
+      "Instructor": "Rebecca"
+    },
+    {
+      "Day": "Friday",
+      "Time": "4:15 PM",
+      "Studio": "Vieux-Port",
+      "Class Name": "body - milla\u2019s birthday barre 45",
+      "Class Type": "BODY",
+      "Instructor": "Mila"
+    },
+    {
+      "Day": "Friday",
+      "Time": "7:00 AM",
+      "Studio": "Westmount",
+      "Class Name": "cycle - signature 45",
+      "Class Type": "CYCLE",
+      "Instructor": "Anne-Sophie"
+    },
+    {
+      "Day": "Friday",
+      "Time": "7:30 AM",
+      "Studio": "Westmount",
+      "Class Name": "body - abs & booty barre 45",
+      "Class Type": "BODY",
+      "Instructor": "Dani"
+    },
+    {
+      "Day": "Friday",
+      "Time": "8:30 AM",
+      "Studio": "Westmount",
+      "Class Name": "cycle - signature 45",
+      "Class Type": "CYCLE",
+      "Instructor": "Mekayla"
+    },
+    {
+      "Day": "Friday",
+      "Time": "9:30 AM",
+      "Studio": "Westmount",
+      "Class Name": "body - barre 45",
+      "Class Type": "BODY",
+      "Instructor": "Suyin"
+    },
+    {
+      "Day": "Friday",
+      "Time": "12:00 PM",
+      "Studio": "Westmount",
+      "Class Name": "cycle - performance 45",
+      "Class Type": "CYCLE",
+      "Instructor": "Ryan"
+    },
+    {
+      "Day": "Friday",
+      "Time": "7:00 AM",
+      "Studio": "Centre-Ville",
+      "Class Name": "cycle - signature 45",
+      "Class Type": "CYCLE",
+      "Instructor": "Laura"
+    },
+    {
+      "Day": "Friday",
+      "Time": "7:15 AM",
+      "Studio": "Centre-Ville",
+      "Class Name": "body - latinx abs & booty 45",
+      "Class Type": "BODY",
+      "Instructor": "Val\u00e9rie L."
+    },
+    {
+      "Day": "Friday",
+      "Time": "12:00 PM",
+      "Studio": "Centre-Ville",
+      "Class Name": "cycle - one hit wonder 45",
+      "Class Type": "CYCLE",
+      "Instructor": "Mimi"
+    },
+    {
+      "Day": "Friday",
+      "Time": "12:15 PM",
+      "Studio": "Centre-Ville",
+      "Class Name": "body - trx barre 45",
+      "Class Type": "BODY",
+      "Instructor": "Rebecca"
+    },
+    {
+      "Day": "Friday",
+      "Time": "4:15 PM",
+      "Studio": "Centre-Ville",
+      "Class Name": "body - milla\u2019s birthday barre 45",
+      "Class Type": "BODY",
+      "Instructor": "Mila"
+    },
+    {
+      "Day": "Friday",
+      "Time": "7:00 AM",
+      "Studio": "Rockland",
+      "Class Name": "cycle - signature 45",
+      "Class Type": "CYCLE",
+      "Instructor": "Charlotte"
+    },
+    {
+      "Day": "Friday",
+      "Time": "7:15 AM",
+      "Studio": "Rockland",
+      "Class Name": "body - floor barre 45",
+      "Class Type": "BODY",
+      "Instructor": "Ana\u00efs"
+    },
+    {
+      "Day": "Friday",
+      "Time": "12:00 PM",
+      "Studio": "Rockland",
+      "Class Name": "cycle - signature 45",
+      "Class Type": "CYCLE",
+      "Instructor": "Mimi"
+    },
+    {
+      "Day": "Friday",
+      "Time": "12:15 PM",
+      "Studio": "Rockland",
+      "Class Name": "body - glutes & gains barre 45",
+      "Class Type": "BODY",
+      "Instructor": "Kelsey"
+    },
+    {
+      "Day": "Friday",
+      "Time": "4:30 PM",
+      "Studio": "Rockland",
+      "Class Name": "cycle - signature 45",
+      "Class Type": "CYCLE",
+      "Instructor": "Daria"
+    },
+    {
+      "Day": "Monday",
+      "Time": "7:00 AM",
+      "Studio": "Vieux-Port",
+      "Class Name": "cycle - big beat drops 45",
+      "Class Type": "CYCLE",
+      "Instructor": "Helen"
+    },
+    {
+      "Day": "Monday",
+      "Time": "7:15 AM",
+      "Studio": "Vieux-Port",
+      "Class Name": "body - edm feelz barre 45",
+      "Class Type": "BODY",
+      "Instructor": "Marie"
+    },
+    {
+      "Day": "Monday",
+      "Time": "12:00 PM",
+      "Studio": "Vieux-Port",
+      "Class Name": "cycle - battle of the decades: 80s vs. 90s 45",
+      "Class Type": "CYCLE",
+      "Instructor": "Laura"
+    },
+    {
+      "Day": "Monday",
+      "Time": "12:15 PM",
+      "Studio": "Vieux-Port",
+      "Class Name": "body - buns & guns 45",
+      "Class Type": "BODY",
+      "Instructor": "Suyin"
+    },
+    {
+      "Day": "Monday",
+      "Time": "5:30 PM",
+      "Studio": "Vieux-Port",
+      "Class Name": "body - abs & arms 45",
+      "Class Type": "BODY",
+      "Instructor": "Suyin"
+    },
+    {
+      "Day": "Monday",
+      "Time": "7:00 AM",
+      "Studio": "Westmount",
+      "Class Name": "cycle - signature 45",
+      "Class Type": "CYCLE",
+      "Instructor": "Val"
+    },
+    {
+      "Day": "Monday",
+      "Time": "7:30 AM",
+      "Studio": "Westmount",
+      "Class Name": "body - barre 45",
+      "Class Type": "BODY",
+      "Instructor": "Brittany"
+    },
+    {
+      "Day": "Monday",
+      "Time": "9:30 AM",
+      "Studio": "Westmount",
+      "Class Name": "body - candlelight abs & arms barre 45",
+      "Class Type": "BODY",
+      "Instructor": "Sam"
+    },
+    {
+      "Day": "Monday",
+      "Time": "12:00 PM",
+      "Studio": "Westmount",
+      "Class Name": "cycle - battle of the djs 45",
+      "Class Type": "CYCLE",
+      "Instructor": "L\u00e9vika"
+    },
+    {
+      "Day": "Monday",
+      "Time": "5:45 PM",
+      "Studio": "Westmount",
+      "Class Name": "cycle - signature 45",
+      "Class Type": "CYCLE",
+      "Instructor": "Michelle D."
+    },
+    {
+      "Day": "Monday",
+      "Time": "7:00 AM",
+      "Studio": "Centre-Ville",
+      "Class Name": "cycle - signature 45",
+      "Class Type": "CYCLE",
+      "Instructor": "Michelle D."
+    },
+    {
+      "Day": "Monday",
+      "Time": "7:15 AM",
+      "Studio": "Centre-Ville",
+      "Class Name": "body - gaga & dua lipa abs and booty 45",
+      "Class Type": "BODY",
+      "Instructor": "Mila"
+    },
+    {
+      "Day": "Monday",
+      "Time": "11:00 AM",
+      "Studio": "Centre-Ville",
+      "Class Name": "body - buns & guns barre 45",
+      "Class Type": "BODY",
+      "Instructor": "Elyane"
+    },
+    {
+      "Day": "Monday",
+      "Time": "12:00 PM",
+      "Studio": "Centre-Ville",
+      "Class Name": "cycle - signature 45",
+      "Class Type": "CYCLE",
+      "Instructor": "\u00c9lodie"
+    },
+    {
+      "Day": "Monday",
+      "Time": "5:30 PM",
+      "Studio": "Centre-Ville",
+      "Class Name": "body - deep core sculpt 45",
+      "Class Type": "BODY",
+      "Instructor": "Gillian"
+    },
+    {
+      "Day": "Monday",
+      "Time": "7:00 AM",
+      "Studio": "Rockland",
+      "Class Name": "cycle - big beat drops 45",
+      "Class Type": "CYCLE",
+      "Instructor": "Helen"
+    },
+    {
+      "Day": "Monday",
+      "Time": "7:15 AM",
+      "Studio": "Rockland",
+      "Class Name": "body - edm feelz barre 45",
+      "Class Type": "BODY",
+      "Instructor": "Marie"
+    },
+    {
+      "Day": "Monday",
+      "Time": "12:00 PM",
+      "Studio": "Rockland",
+      "Class Name": "cycle - battle of the decades: 80s vs. 90s 45",
+      "Class Type": "CYCLE",
+      "Instructor": "Laura"
+    },
+    {
+      "Day": "Monday",
+      "Time": "12:15 PM",
+      "Studio": "Rockland",
+      "Class Name": "body - buns & guns 45",
+      "Class Type": "BODY",
+      "Instructor": "Suyin"
+    },
+    {
+      "Day": "Monday",
+      "Time": "5:45 PM",
+      "Studio": "Rockland",
+      "Class Name": "cycle - performance 45",
+      "Class Type": "CYCLE",
+      "Instructor": "Felicia"
+    },
+    {
+      "Day": "Sunday",
+      "Time": "8:45 AM",
+      "Studio": "Vieux-Port",
+      "Class Name": "body - barre 45",
+      "Class Type": "BODY",
+      "Instructor": "Rawan"
+    },
+    {
+      "Day": "Sunday",
+      "Time": "9:45 AM",
+      "Studio": "Vieux-Port",
+      "Class Name": "cycle - signature 45",
+      "Class Type": "CYCLE",
+      "Instructor": "Rawan"
+    },
+    {
+      "Day": "Sunday",
+      "Time": "11:00 AM",
+      "Studio": "Vieux-Port",
+      "Class Name": "body - afrobeat vs latinx abs & booty 45",
+      "Class Type": "BODY",
+      "Instructor": "Rebecca"
+    },
+    {
+      "Day": "Sunday",
+      "Time": "8:30 AM",
+      "Studio": "Westmount",
+      "Class Name": "body - burn and stretch floor barre 45",
+      "Class Type": "BODY",
+      "Instructor": "Sam"
+    },
+    {
+      "Day": "Sunday",
+      "Time": "9:45 AM",
+      "Studio": "Westmount",
+      "Class Name": "body - abs on fire barre 45",
+      "Class Type": "BODY",
+      "Instructor": "Ali"
+    },
+    {
+      "Day": "Sunday",
+      "Time": "11:00 AM",
+      "Studio": "Westmount",
+      "Class Name": "cycle - strength x sculpt buns & guns 45",
+      "Class Type": "CYCLE",
+      "Instructor": "Camille"
+    },
+    {
+      "Day": "Sunday",
+      "Time": "8:45 AM",
+      "Studio": "Centre-Ville",
+      "Class Name": "cycle - huge! remixes 45",
+      "Class Type": "CYCLE",
+      "Instructor": "Angela"
+    },
+    {
+      "Day": "Sunday",
+      "Time": "9:45 AM",
+      "Studio": "Centre-Ville",
+      "Class Name": "body - sarbina carpenter & dua lipa 45",
+      "Class Type": "BODY",
+      "Instructor": "Rebecca"
+    },
+    {
+      "Day": "Sunday",
+      "Time": "11:00 AM",
+      "Studio": "Centre-Ville",
+      "Class Name": "cycle - signature 45",
+      "Class Type": "CYCLE",
+      "Instructor": "Aur\u00e9lie"
+    },
+    {
+      "Day": "Sunday",
+      "Time": "9:00 AM",
+      "Studio": "Rockland",
+      "Class Name": "body - bootylicious barre 45",
+      "Class Type": "BODY",
+      "Instructor": "Juliette"
+    },
+    {
+      "Day": "Sunday",
+      "Time": "10:00 AM",
+      "Studio": "Rockland",
+      "Class Name": "cycle - euro summer mix 45",
+      "Class Type": "CYCLE",
+      "Instructor": "L\u00e9vika"
+    },
+    {
+      "Day": "Sunday",
+      "Time": "11:15 AM",
+      "Studio": "Rockland",
+      "Class Name": "cycle - retro techno rave 45",
+      "Class Type": "CYCLE",
+      "Instructor": "Natalia"
+    },
+    {
+      "Day": "Saturday",
+      "Time": "8:30 AM",
+      "Studio": "Vieux-Port",
+      "Class Name": "body - upper body abs + arms 45",
+      "Class Type": "BODY",
+      "Instructor": "Camille"
+    },
+    {
+      "Day": "Saturday",
+      "Time": "8:45 AM",
+      "Studio": "Vieux-Port",
+      "Class Name": "cycle - signature 45",
+      "Class Type": "CYCLE",
+      "Instructor": "\u00c9lodie"
+    },
+    {
+      "Day": "Saturday",
+      "Time": "11:00 AM",
+      "Studio": "Vieux-Port",
+      "Class Name": "cycle - mashups ride 45",
+      "Class Type": "CYCLE",
+      "Instructor": "Emma"
+    },
+    {
+      "Day": "Saturday",
+      "Time": "8:30 AM",
+      "Studio": "Westmount",
+      "Class Name": "cycle - signature 45",
+      "Class Type": "CYCLE",
+      "Instructor": "Alex C."
+    },
+    {
+      "Day": "Saturday",
+      "Time": "9:45 AM",
+      "Studio": "Westmount",
+      "Class Name": "body - barre 45",
+      "Class Type": "BODY",
+      "Instructor": "Sam"
+    },
+    {
+      "Day": "Saturday",
+      "Time": "11:15 AM",
+      "Studio": "Westmount",
+      "Class Name": "body - calf and hamstring recovery 45",
+      "Class Type": "BODY",
+      "Instructor": "Sam"
+    },
+    {
+      "Day": "Saturday",
+      "Time": "9:00 AM",
+      "Studio": "Centre-Ville",
+      "Class Name": "body - ballet core barre 45",
+      "Class Type": "BODY",
+      "Instructor": "Elyane"
+    },
+    {
+      "Day": "Saturday",
+      "Time": "10:00 AM",
+      "Studio": "Centre-Ville",
+      "Class Name": "cycle - the broadway musicals ride 45",
+      "Class Type": "CYCLE",
+      "Instructor": "Mekayla"
+    },
+    {
+      "Day": "Saturday",
+      "Time": "11:15 AM",
+      "Studio": "Centre-Ville",
+      "Class Name": "cycle - signature 45",
+      "Class Type": "CYCLE",
+      "Instructor": "Aur\u00e9lie"
+    },
+    {
+      "Day": "Saturday",
+      "Time": "9:00 AM",
+      "Studio": "Rockland",
+      "Class Name": "body - barre 45",
+      "Class Type": "BODY",
+      "Instructor": "Meissem"
+    },
+    {
+      "Day": "Saturday",
+      "Time": "10:00 AM",
+      "Studio": "Rockland",
+      "Class Name": "cycle - j.lo x pitbull 45",
+      "Class Type": "CYCLE",
+      "Instructor": "L\u00e9vika"
+    },
+    {
+      "Day": "Saturday",
+      "Time": "11:15 AM",
+      "Studio": "Rockland",
+      "Class Name": "cycle - one hit wonders 45",
+      "Class Type": "CYCLE",
+      "Instructor": "L\u00e9vika"
+    },
+    {
+      "Day": "Tuesday",
+      "Time": "7:00 AM",
+      "Studio": "Vieux-Port",
+      "Class Name": "cycle - signature 45",
+      "Class Type": "CYCLE",
+      "Instructor": "Aur\u00e9lie"
+    },
+    {
+      "Day": "Tuesday",
+      "Time": "7:15 AM",
+      "Studio": "Vieux-Port",
+      "Class Name": "body - abs on fire 45",
+      "Class Type": "BODY",
+      "Instructor": "Marie"
+    },
+    {
+      "Day": "Tuesday",
+      "Time": "12:00 PM",
+      "Studio": "Vieux-Port",
+      "Class Name": "cycle - signature 45",
+      "Class Type": "CYCLE",
+      "Instructor": "Mimi"
+    },
+    {
+      "Day": "Tuesday",
+      "Time": "12:15 PM",
+      "Studio": "Vieux-Port",
+      "Class Name": "body - abs & booty barre 45",
+      "Class Type": "BODY",
+      "Instructor": "Rebecca"
+    },
+    {
+      "Day": "Tuesday",
+      "Time": "4:15 PM",
+      "Studio": "Vieux-Port",
+      "Class Name": "body - afrobeats vs latinx barre 45",
+      "Class Type": "BODY",
+      "Instructor": "Rebecca"
+    },
+    {
+      "Day": "Tuesday",
+      "Time": "7:00 AM",
+      "Studio": "Westmount",
+      "Class Name": "cycle - signature 45",
+      "Class Type": "CYCLE",
+      "Instructor": "Ashley"
+    },
+    {
+      "Day": "Tuesday",
+      "Time": "7:30 AM",
+      "Studio": "Westmount",
+      "Class Name": "body - barre 45",
+      "Class Type": "BODY",
+      "Instructor": "Frederique"
+    },
+    {
+      "Day": "Tuesday",
+      "Time": "12:00 PM",
+      "Studio": "Westmount",
+      "Class Name": "cycle - performance 45",
+      "Class Type": "CYCLE",
+      "Instructor": "Linda"
+    },
+    {
+      "Day": "Tuesday",
+      "Time": "12:15 PM",
+      "Studio": "Westmount",
+      "Class Name": "body - abs & booty barre 45",
+      "Class Type": "BODY",
+      "Instructor": "Amy"
+    },
+    {
+      "Day": "Tuesday",
+      "Time": "5:45 PM",
+      "Studio": "Westmount",
+      "Class Name": "cycle - signature 45",
+      "Class Type": "CYCLE",
+      "Instructor": "Michelle L."
+    },
+    {
+      "Day": "Tuesday",
+      "Time": "7:00 AM",
+      "Studio": "Centre-Ville",
+      "Class Name": "cycle - signature 45",
+      "Class Type": "CYCLE",
+      "Instructor": "Mekayla"
+    },
+    {
+      "Day": "Tuesday",
+      "Time": "7:15 AM",
+      "Studio": "Centre-Ville",
+      "Class Name": "body - back to basics barre 45",
+      "Class Type": "BODY",
+      "Instructor": "Ana\u00efs"
+    },
+    {
+      "Day": "Tuesday",
+      "Time": "12:00 PM",
+      "Studio": "Centre-Ville",
+      "Class Name": "cycle - fred again. + calvin harris 45",
+      "Class Type": "CYCLE",
+      "Instructor": "Alex A."
+    },
+    {
+      "Day": "Tuesday",
+      "Time": "12:15 PM",
+      "Studio": "Centre-Ville",
+      "Class Name": "body - trx barre 45",
+      "Class Type": "BODY",
+      "Instructor": "Gillian"
+    },
+    {
+      "Day": "Tuesday",
+      "Time": "4:15 PM",
+      "Studio": "Centre-Ville",
+      "Class Name": "body - abs & arms barre 45",
+      "Class Type": "BODY",
+      "Instructor": "Kelsey"
+    },
+    {
+      "Day": "Tuesday",
+      "Time": "7:00 AM",
+      "Studio": "Rockland",
+      "Class Name": "cycle - signature 45",
+      "Class Type": "CYCLE",
+      "Instructor": "Lisa"
+    },
+    {
+      "Day": "Tuesday",
+      "Time": "7:15 AM",
+      "Studio": "Rockland",
+      "Class Name": "body - barre 45",
+      "Class Type": "BODY",
+      "Instructor": "Juliette"
+    },
+    {
+      "Day": "Tuesday",
+      "Time": "12:00 PM",
+      "Studio": "Rockland",
+      "Class Name": "cycle - battle of the decades: 80s vs. 90s 45",
+      "Class Type": "CYCLE",
+      "Instructor": "Laura"
+    },
+    {
+      "Day": "Tuesday",
+      "Time": "12:15 PM",
+      "Studio": "Rockland",
+      "Class Name": "body - abs & booty barre 45",
+      "Class Type": "BODY",
+      "Instructor": "Suyin"
+    },
+    {
+      "Day": "Tuesday",
+      "Time": "4:30 PM",
+      "Studio": "Rockland",
+      "Class Name": "cycle - signature 45",
+      "Class Type": "CYCLE",
+      "Instructor": "Daria"
+    },
+    {
+      "Day": "Wednesday",
+      "Time": "7:00 AM",
+      "Studio": "Vieux-Port",
+      "Class Name": "cycle - signature 45",
+      "Class Type": "CYCLE",
+      "Instructor": "Emma"
+    },
+    {
+      "Day": "Wednesday",
+      "Time": "7:15 AM",
+      "Studio": "Vieux-Port",
+      "Class Name": "body - buns & guns barre 45",
+      "Class Type": "BODY",
+      "Instructor": "Ana\u00efs"
+    },
+    {
+      "Day": "Wednesday",
+      "Time": "12:00 PM",
+      "Studio": "Vieux-Port",
+      "Class Name": "cycle - signature 45",
+      "Class Type": "CYCLE",
+      "Instructor": "Olivia"
+    },
+    {
+      "Day": "Wednesday",
+      "Time": "12:15 PM",
+      "Studio": "Vieux-Port",
+      "Class Name": "body - hiit & lift barre 45",
+      "Class Type": "BODY",
+      "Instructor": "Kelsey"
+    },
+    {
+      "Day": "Wednesday",
+      "Time": "4:15 PM",
+      "Studio": "Vieux-Port",
+      "Class Name": "body - barre 45",
+      "Class Type": "BODY",
+      "Instructor": "Juliette"
+    },
+    {
+      "Day": "Wednesday",
+      "Time": "7:00 AM",
+      "Studio": "Westmount",
+      "Class Name": "cycle - signature 45",
+      "Class Type": "CYCLE",
+      "Instructor": "Michelle D."
+    },
+    {
+      "Day": "Wednesday",
+      "Time": "7:30 AM",
+      "Studio": "Westmount",
+      "Class Name": "body - bootylicious barre 45",
+      "Class Type": "BODY",
+      "Instructor": "Felicia"
+    },
+    {
+      "Day": "Wednesday",
+      "Time": "12:00 PM",
+      "Studio": "Westmount",
+      "Class Name": "cycle - signature 45",
+      "Class Type": "CYCLE",
+      "Instructor": "Lisa"
+    },
+    {
+      "Day": "Wednesday",
+      "Time": "12:15 PM",
+      "Studio": "Westmount",
+      "Class Name": "body - abs & booty barre 45",
+      "Class Type": "BODY",
+      "Instructor": "Juliette"
+    },
+    {
+      "Day": "Wednesday",
+      "Time": "4:30 PM",
+      "Studio": "Westmount",
+      "Class Name": "cycle - signature 45",
+      "Class Type": "CYCLE",
+      "Instructor": "Melissa"
+    },
+    {
+      "Day": "Wednesday",
+      "Time": "7:00 AM",
+      "Studio": "Centre-Ville",
+      "Class Name": "cycle - signature 45",
+      "Class Type": "CYCLE",
+      "Instructor": "Laura"
+    },
+    {
+      "Day": "Wednesday",
+      "Time": "7:15 AM",
+      "Studio": "Centre-Ville",
+      "Class Name": "body - barre 45",
+      "Class Type": "BODY",
+      "Instructor": "Ana\u00efs"
+    },
+    {
+      "Day": "Wednesday",
+      "Time": "12:00 PM",
+      "Studio": "Centre-Ville",
+      "Class Name": "cycle - signature 45",
+      "Class Type": "CYCLE",
+      "Instructor": "Laura"
+    },
+    {
+      "Day": "Wednesday",
+      "Time": "12:15 PM",
+      "Studio": "Centre-Ville",
+      "Class Name": "body - abs & arms barre 45",
+      "Class Type": "BODY",
+      "Instructor": "Rebecca"
+    },
+    {
+      "Day": "Wednesday",
+      "Time": "4:15 PM",
+      "Studio": "Centre-Ville",
+      "Class Name": "body - planks focused abs on fire 45",
+      "Class Type": "BODY",
+      "Instructor": "Rebecca"
+    },
+    {
+      "Day": "Wednesday",
+      "Time": "7:00 AM",
+      "Studio": "Rockland",
+      "Class Name": "cycle - 70\u2019s & 80\u2019s hits 45",
+      "Class Type": "CYCLE",
+      "Instructor": "Angela"
+    },
+    {
+      "Day": "Wednesday",
+      "Time": "7:15 AM",
+      "Studio": "Rockland",
+      "Class Name": "body - trx barre 45",
+      "Class Type": "BODY",
+      "Instructor": "Sam"
+    },
+    {
+      "Day": "Wednesday",
+      "Time": "12:00 PM",
+      "Studio": "Rockland",
+      "Class Name": "cycle - battle of the decades: 80s vs. 90s (film\u00e9) 45",
+      "Class Type": "CYCLE",
+      "Instructor": "Laura"
+    },
+    {
+      "Day": "Wednesday",
+      "Time": "12:15 PM",
+      "Studio": "Rockland",
+      "Class Name": "body - trx barre 45",
+      "Class Type": "BODY",
+      "Instructor": "Rebecca"
+    },
+    {
+      "Day": "Wednesday",
+      "Time": "6:45 PM",
+      "Studio": "Rockland",
+      "Class Name": "body - trx barre 45",
+      "Class Type": "BODY",
+      "Instructor": "Rebecca"
+    },
+    {
+      "Day": "Thursday",
+      "Time": "7:00 AM",
+      "Studio": "Vieux-Port",
+      "Class Name": "cycle - signature 45",
+      "Class Type": "CYCLE",
+      "Instructor": "Etienne"
+    },
+    {
+      "Day": "Thursday",
+      "Time": "7:15 AM",
+      "Studio": "Vieux-Port",
+      "Class Name": "body - barre 45",
+      "Class Type": "BODY",
+      "Instructor": "Frederique"
+    },
+    {
+      "Day": "Thursday",
+      "Time": "12:00 PM",
+      "Studio": "Vieux-Port",
+      "Class Name": "cycle - signature 45",
+      "Class Type": "CYCLE",
+      "Instructor": "Sara"
+    },
+    {
+      "Day": "Thursday",
+      "Time": "12:15 PM",
+      "Studio": "Vieux-Port",
+      "Class Name": "body - barre 45",
+      "Class Type": "BODY",
+      "Instructor": "Elyane"
+    },
+    {
+      "Day": "Thursday",
+      "Time": "4:15 PM",
+      "Studio": "Vieux-Port",
+      "Class Name": "body - planks focused abs on fire 45",
+      "Class Type": "BODY",
+      "Instructor": "Rebecca"
+    },
+    {
+      "Day": "Thursday",
+      "Time": "7:00 AM",
+      "Studio": "Westmount",
+      "Class Name": "cycle - signature 45",
+      "Class Type": "CYCLE",
+      "Instructor": "Yan"
+    },
+    {
+      "Day": "Thursday",
+      "Time": "7:30 AM",
+      "Studio": "Westmount",
+      "Class Name": "body - barre 45",
+      "Class Type": "BODY",
+      "Instructor": "Meissem"
+    },
+    {
+      "Day": "Thursday",
+      "Time": "12:00 PM",
+      "Studio": "Westmount",
+      "Class Name": "cycle - signature 45",
+      "Class Type": "CYCLE",
+      "Instructor": "Olivia"
+    },
+    {
+      "Day": "Thursday",
+      "Time": "12:15 PM",
+      "Studio": "Westmount",
+      "Class Name": "body - barre 45",
+      "Class Type": "BODY",
+      "Instructor": "Suyin"
+    },
+    {
+      "Day": "Thursday",
+      "Time": "5:30 PM",
+      "Studio": "Westmount",
+      "Class Name": "cycle - signature 45",
+      "Class Type": "CYCLE",
+      "Instructor": "Steph"
+    },
+    {
+      "Day": "Thursday",
+      "Time": "7:00 AM",
+      "Studio": "Centre-Ville",
+      "Class Name": "cycle - signature 45",
+      "Class Type": "CYCLE",
+      "Instructor": "Jordan"
+    },
+    {
+      "Day": "Thursday",
+      "Time": "7:15 AM",
+      "Studio": "Centre-Ville",
+      "Class Name": "body - 100% gaga barre 45",
+      "Class Type": "BODY",
+      "Instructor": "Elyane"
+    },
+    {
+      "Day": "Thursday",
+      "Time": "12:00 PM",
+      "Studio": "Centre-Ville",
+      "Class Name": "cycle - battle of the decades: 80s vs. 90s 45",
+      "Class Type": "CYCLE",
+      "Instructor": "Laura"
+    },
+    {
+      "Day": "Thursday",
+      "Time": "12:15 PM",
+      "Studio": "Centre-Ville",
+      "Class Name": "body - abs & booty pop party 45",
+      "Class Type": "BODY",
+      "Instructor": "Brittany"
+    },
+    {
+      "Day": "Thursday",
+      "Time": "4:15 PM",
+      "Studio": "Centre-Ville",
+      "Class Name": "body - barre 45",
+      "Class Type": "BODY",
+      "Instructor": "Rawan"
+    },
+    {
+      "Day": "Thursday",
+      "Time": "7:00 AM",
+      "Studio": "Rockland",
+      "Class Name": "cycle - signature 45",
+      "Class Type": "CYCLE",
+      "Instructor": "Alex A"
+    },
+    {
+      "Day": "Thursday",
+      "Time": "7:15 AM",
+      "Studio": "Rockland",
+      "Class Name": "body - abs on fire barre 45",
+      "Class Type": "BODY",
+      "Instructor": "Ali"
+    },
+    {
+      "Day": "Thursday",
+      "Time": "12:00 PM",
+      "Studio": "Rockland",
+      "Class Name": "cycle - signature 45",
+      "Class Type": "CYCLE",
+      "Instructor": "Olivia"
+    },
+    {
+      "Day": "Thursday",
+      "Time": "12:15 PM",
+      "Studio": "Rockland",
+      "Class Name": "body - barre 45",
+      "Class Type": "BODY",
+      "Instructor": "Kelsey"
+    },
+    {
+      "Day": "Thursday",
+      "Time": "4:30 PM",
+      "Studio": "Rockland",
+      "Class Name": "cycle - signature 45",
+      "Class Type": "CYCLE",
+      "Instructor": "Daria"
+    }
+  ]
+}
