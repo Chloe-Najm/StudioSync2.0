@@ -1,0 +1,1000 @@
+[
+  {
+    "name": "Michael Jennings",
+    "first_class_promotion": "Feel Good February",
+    "attendance": [
+      {
+        "date": "2024-02-14",
+        "class": "Sculpt"
+      },
+      {
+        "date": "2024-02-21",
+        "class": "Ride"
+      },
+      {
+        "date": "2024-02-20",
+        "class": "HIIT"
+      },
+      {
+        "date": "2024-03-06",
+        "class": "Sculpt"
+      },
+      {
+        "date": "2024-03-09",
+        "class": "HIIT"
+      },
+      {
+        "date": "2024-03-10",
+        "class": "Yoga"
+      },
+      {
+        "date": "2024-03-15",
+        "class": "HIIT"
+      },
+      {
+        "date": "2024-03-20",
+        "class": "Barre"
+      },
+      {
+        "date": "2025-03-27",
+        "class": "Yoga"
+      }
+    ],
+    "total_attendance": 9,
+    "days_since_last_attendance": 10,
+    "churn_risk_score": 0.17,
+    "loyalty_score": 0.04
+  },
+  {
+    "name": "Ian Watts",
+    "first_class_promotion": "B.Ingo Challenge",
+    "attendance": [
+      {
+        "date": "2024-03-04",
+        "class": "Barre"
+      },
+      {
+        "date": "2024-03-11",
+        "class": "Sculpt"
+      },
+      {
+        "date": "2024-03-12",
+        "class": "Sculpt"
+      },
+      {
+        "date": "2024-03-19",
+        "class": "Barre"
+      },
+      {
+        "date": "2024-03-20",
+        "class": "Yoga"
+      }
+    ],
+    "total_attendance": 5,
+    "days_since_last_attendance": 382,
+    "churn_risk_score": 1.0,
+    "loyalty_score": 0.38
+  },
+  {
+    "name": "Elizabeth Smith",
+    "first_class_promotion": "Holiday Hustle",
+    "attendance": [
+      {
+        "date": "2024-01-12",
+        "class": "Yoga"
+      },
+      {
+        "date": "2024-01-17",
+        "class": "Barre"
+      },
+      {
+        "date": "2024-01-24",
+        "class": "HIIT"
+      },
+      {
+        "date": "2024-01-27",
+        "class": "HIIT"
+      },
+      {
+        "date": "2024-01-28",
+        "class": "Barre"
+      },
+      {
+        "date": "2024-02-16",
+        "class": "Ride"
+      },
+      {
+        "date": "2024-02-17",
+        "class": "Yoga"
+      },
+      {
+        "date": "2024-02-23",
+        "class": "Barre"
+      }
+    ],
+    "total_attendance": 8,
+    "days_since_last_attendance": 408,
+    "churn_risk_score": 1.0,
+    "loyalty_score": 0.29
+  },
+  {
+    "name": "Lisa Mcintosh",
+    "first_class_promotion": "Holiday Hustle",
+    "attendance": [
+      {
+        "date": "2024-01-29",
+        "class": "HIIT"
+      },
+      {
+        "date": "2024-02-01",
+        "class": "Yoga"
+      },
+      {
+        "date": "2024-02-08",
+        "class": "Ride"
+      },
+      {
+        "date": "2024-02-07",
+        "class": "Yoga"
+      },
+      {
+        "date": "2024-02-22",
+        "class": "Barre"
+      },
+      {
+        "date": "2024-02-28",
+        "class": "HIIT"
+      },
+      {
+        "date": "2024-02-22",
+        "class": "Sculpt"
+      },
+      {
+        "date": "2024-02-26",
+        "class": "HIIT"
+      },
+      {
+        "date": "2024-03-17",
+        "class": "Ride"
+      },
+      {
+        "date": "2024-03-23",
+        "class": "Sculpt"
+      }
+    ],
+    "total_attendance": 10,
+    "days_since_last_attendance": 379,
+    "churn_risk_score": 1.0,
+    "loyalty_score": 0.29
+  },
+  {
+    "name": "Caleb Carrillo",
+    "first_class_promotion": "Feel Good February",
+    "attendance": [
+      {
+        "date": "2024-02-01",
+        "class": "Yoga"
+      },
+      {
+        "date": "2024-02-08",
+        "class": "Sculpt"
+      },
+      {
+        "date": "2024-02-13",
+        "class": "Sculpt"
+      },
+      {
+        "date": "2024-02-19",
+        "class": "Ride"
+      },
+      {
+        "date": "2024-02-25",
+        "class": "HIIT"
+      },
+      {
+        "date": "2024-03-02",
+        "class": "Yoga"
+      },
+      {
+        "date": "2024-02-19",
+        "class": "Sculpt"
+      },
+      {
+        "date": "2024-03-21",
+        "class": "Yoga"
+      },
+      {
+        "date": "2024-03-12",
+        "class": "Ride"
+      },
+      {
+        "date": "2024-03-26",
+        "class": "Barre"
+      }
+    ],
+    "total_attendance": 10,
+    "days_since_last_attendance": 376,
+    "churn_risk_score": 1.0,
+    "loyalty_score": 0.29
+  },
+  {
+    "name": "Mark Rangel",
+    "first_class_promotion": "Feel Good February",
+    "attendance": [
+      {
+        "date": "2024-02-04",
+        "class": "Barre"
+      },
+      {
+        "date": "2024-02-11",
+        "class": "Barre"
+      },
+      {
+        "date": "2024-02-14",
+        "class": "Sculpt"
+      },
+      {
+        "date": "2024-02-13",
+        "class": "Sculpt"
+      },
+      {
+        "date": "2024-02-20",
+        "class": "Yoga"
+      },
+      {
+        "date": "2025-04-01",
+        "class": "Barre"
+      }
+    ],
+    "total_attendance": 6,
+    "days_since_last_attendance": 5,
+    "churn_risk_score": 0.08,
+    "loyalty_score": 0.02
+  },
+  {
+    "name": "Amy Ellison",
+    "first_class_promotion": "Feel Good February",
+    "attendance": [
+      {
+        "date": "2024-02-10",
+        "class": "Barre"
+      },
+      {
+        "date": "2024-02-14",
+        "class": "Yoga"
+      },
+      {
+        "date": "2024-02-20",
+        "class": "HIIT"
+      },
+      {
+        "date": "2024-02-19",
+        "class": "Sculpt"
+      },
+      {
+        "date": "2024-03-09",
+        "class": "HIIT"
+      },
+      {
+        "date": "2024-03-06",
+        "class": "HIIT"
+      },
+      {
+        "date": "2024-02-28",
+        "class": "Sculpt"
+      },
+      {
+        "date": "2024-03-09",
+        "class": "Barre"
+      },
+      {
+        "date": "2024-03-29",
+        "class": "Sculpt"
+      },
+      {
+        "date": "2024-03-26",
+        "class": "Barre"
+      }
+    ],
+    "total_attendance": 10,
+    "days_since_last_attendance": 373,
+    "churn_risk_score": 1.0,
+    "loyalty_score": 0.32
+  },
+  {
+    "name": "Matthew Nguyen",
+    "first_class_promotion": "B.Ingo Challenge",
+    "attendance": [
+      {
+        "date": "2024-03-01",
+        "class": "Yoga"
+      },
+      {
+        "date": "2024-03-05",
+        "class": "HIIT"
+      },
+      {
+        "date": "2024-03-11",
+        "class": "Yoga"
+      },
+      {
+        "date": "2024-03-16",
+        "class": "Ride"
+      },
+      {
+        "date": "2024-03-21",
+        "class": "Yoga"
+      }
+    ],
+    "total_attendance": 5,
+    "days_since_last_attendance": 381,
+    "churn_risk_score": 1.0,
+    "loyalty_score": 0.32
+  },
+  {
+    "name": "Paul Jones",
+    "first_class_promotion": "B.Ingo Challenge",
+    "attendance": [
+      {
+        "date": "2024-03-27",
+        "class": "HIIT"
+      },
+      {
+        "date": "2024-03-31",
+        "class": "Barre"
+      },
+      {
+        "date": "2024-04-04",
+        "class": "Sculpt"
+      },
+      {
+        "date": "2024-04-08",
+        "class": "Barre"
+      },
+      {
+        "date": "2024-04-16",
+        "class": "Yoga"
+      },
+      {
+        "date": "2024-04-26",
+        "class": "Ride"
+      }
+    ],
+    "total_attendance": 6,
+    "days_since_last_attendance": 345,
+    "churn_risk_score": 1.0,
+    "loyalty_score": 0.28
+  },
+  {
+    "name": "Cody Benjamin",
+    "first_class_promotion": "B.Ingo Challenge",
+    "attendance": [
+      {
+        "date": "2024-03-01",
+        "class": "HIIT"
+      },
+      {
+        "date": "2024-03-07",
+        "class": "Barre"
+      },
+      {
+        "date": "2024-03-07",
+        "class": "Sculpt"
+      },
+      {
+        "date": "2024-03-22",
+        "class": "Yoga"
+      },
+      {
+        "date": "2024-03-13",
+        "class": "Sculpt"
+      }
+    ],
+    "total_attendance": 5,
+    "days_since_last_attendance": 380,
+    "churn_risk_score": 1.0,
+    "loyalty_score": 0.31
+  },
+  {
+    "name": "Joe Stein",
+    "first_class_promotion": "Feel Good February",
+    "attendance": [
+      {
+        "date": "2024-02-12",
+        "class": "HIIT"
+      },
+      {
+        "date": "2024-02-16",
+        "class": "Yoga"
+      },
+      {
+        "date": "2024-02-18",
+        "class": "Yoga"
+      },
+      {
+        "date": "2024-02-21",
+        "class": "Barre"
+      },
+      {
+        "date": "2024-03-03",
+        "class": "Ride"
+      },
+      {
+        "date": "2024-03-18",
+        "class": "Ride"
+      },
+      {
+        "date": "2025-03-24",
+        "class": "Yoga"
+      }
+    ],
+    "total_attendance": 7,
+    "days_since_last_attendance": 13,
+    "churn_risk_score": 0.22,
+    "loyalty_score": 0.03
+  },
+  {
+    "name": "Andrew Davis",
+    "first_class_promotion": "B.Ingo Challenge",
+    "attendance": [
+      {
+        "date": "2024-03-02",
+        "class": "Sculpt"
+      },
+      {
+        "date": "2024-03-05",
+        "class": "HIIT"
+      },
+      {
+        "date": "2024-03-12",
+        "class": "Ride"
+      },
+      {
+        "date": "2024-03-11",
+        "class": "Yoga"
+      },
+      {
+        "date": "2024-03-22",
+        "class": "Barre"
+      },
+      {
+        "date": "2024-04-06",
+        "class": "HIIT"
+      },
+      {
+        "date": "2024-03-26",
+        "class": "HIIT"
+      },
+      {
+        "date": "2024-03-23",
+        "class": "HIIT"
+      },
+      {
+        "date": "2024-04-27",
+        "class": "HIIT"
+      }
+    ],
+    "total_attendance": 9,
+    "days_since_last_attendance": 344,
+    "churn_risk_score": 1.0,
+    "loyalty_score": 0.25
+  },
+  {
+    "name": "Cameron Hanna",
+    "first_class_promotion": "B.Ingo Challenge",
+    "attendance": [
+      {
+        "date": "2024-03-24",
+        "class": "Barre"
+      },
+      {
+        "date": "2024-03-30",
+        "class": "Yoga"
+      },
+      {
+        "date": "2024-04-07",
+        "class": "Yoga"
+      },
+      {
+        "date": "2024-04-05",
+        "class": "Yoga"
+      },
+      {
+        "date": "2024-04-05",
+        "class": "Yoga"
+      },
+      {
+        "date": "2024-04-18",
+        "class": "Ride"
+      },
+      {
+        "date": "2024-05-05",
+        "class": "HIIT"
+      },
+      {
+        "date": "2024-04-28",
+        "class": "Sculpt"
+      },
+      {
+        "date": "2024-05-11",
+        "class": "HIIT"
+      },
+      {
+        "date": "2024-05-17",
+        "class": "Ride"
+      }
+    ],
+    "total_attendance": 10,
+    "days_since_last_attendance": 324,
+    "churn_risk_score": 1.0,
+    "loyalty_score": 0.29
+  },
+  {
+    "name": "Ricky Castaneda",
+    "first_class_promotion": "Feel Good February",
+    "attendance": [
+      {
+        "date": "2024-02-12",
+        "class": "Ride"
+      },
+      {
+        "date": "2024-02-17",
+        "class": "Barre"
+      },
+      {
+        "date": "2024-02-26",
+        "class": "Barre"
+      },
+      {
+        "date": "2024-02-21",
+        "class": "HIIT"
+      },
+      {
+        "date": "2024-03-03",
+        "class": "Sculpt"
+      },
+      {
+        "date": "2024-02-27",
+        "class": "Ride"
+      }
+    ],
+    "total_attendance": 6,
+    "days_since_last_attendance": 399,
+    "churn_risk_score": 1.0,
+    "loyalty_score": 0.39
+  },
+  {
+    "name": "Emily Owen",
+    "first_class_promotion": "Feel Good February",
+    "attendance": [
+      {
+        "date": "2024-02-19",
+        "class": "Ride"
+      },
+      {
+        "date": "2024-02-22",
+        "class": "HIIT"
+      },
+      {
+        "date": "2024-02-27",
+        "class": "HIIT"
+      },
+      {
+        "date": "2024-03-02",
+        "class": "Ride"
+      },
+      {
+        "date": "2024-03-10",
+        "class": "Barre"
+      },
+      {
+        "date": "2024-03-20",
+        "class": "Ride"
+      },
+      {
+        "date": "2024-03-20",
+        "class": "HIIT"
+      },
+      {
+        "date": "2024-03-25",
+        "class": "Barre"
+      }
+    ],
+    "total_attendance": 8,
+    "days_since_last_attendance": 377,
+    "churn_risk_score": 1.0,
+    "loyalty_score": 0.33
+  },
+  {
+    "name": "Frank Stevens",
+    "first_class_promotion": null,
+    "attendance": [
+      {
+        "date": "2024-02-29",
+        "class": "Yoga"
+      },
+      {
+        "date": "2024-03-05",
+        "class": "Sculpt"
+      },
+      {
+        "date": "2024-03-10",
+        "class": "Ride"
+      },
+      {
+        "date": "2024-03-21",
+        "class": "Ride"
+      },
+      {
+        "date": "2024-03-16",
+        "class": "HIIT"
+      },
+      {
+        "date": "2024-03-30",
+        "class": "Sculpt"
+      },
+      {
+        "date": "2024-03-24",
+        "class": "Sculpt"
+      },
+      {
+        "date": "2024-04-18",
+        "class": "Yoga"
+      },
+      {
+        "date": "2024-04-09",
+        "class": "Barre"
+      },
+      {
+        "date": "2024-04-05",
+        "class": "HIIT"
+      },
+      {
+        "date": "2025-04-01",
+        "class": "Barre"
+      }
+    ],
+    "total_attendance": 11,
+    "days_since_last_attendance": 5,
+    "churn_risk_score": 0.08,
+    "loyalty_score": 0.05
+  },
+  {
+    "name": "Ryan Peters",
+    "first_class_promotion": "Feel Good February",
+    "attendance": [
+      {
+        "date": "2024-02-27",
+        "class": "Sculpt"
+      },
+      {
+        "date": "2024-03-05",
+        "class": "Sculpt"
+      },
+      {
+        "date": "2024-03-10",
+        "class": "HIIT"
+      },
+      {
+        "date": "2024-03-10",
+        "class": "Barre"
+      },
+      {
+        "date": "2024-03-22",
+        "class": "Barre"
+      }
+    ],
+    "total_attendance": 5,
+    "days_since_last_attendance": 380,
+    "churn_risk_score": 1.0,
+    "loyalty_score": 0.28
+  },
+  {
+    "name": "Breanna Park",
+    "first_class_promotion": "Feel Good February",
+    "attendance": [
+      {
+        "date": "2024-02-27",
+        "class": "HIIT"
+      },
+      {
+        "date": "2024-03-03",
+        "class": "HIIT"
+      },
+      {
+        "date": "2024-03-12",
+        "class": "Ride"
+      },
+      {
+        "date": "2024-03-19",
+        "class": "Sculpt"
+      },
+      {
+        "date": "2024-03-22",
+        "class": "Sculpt"
+      },
+      {
+        "date": "2024-03-13",
+        "class": "Yoga"
+      },
+      {
+        "date": "2024-04-03",
+        "class": "Yoga"
+      },
+      {
+        "date": "2024-03-19",
+        "class": "Yoga"
+      }
+    ],
+    "total_attendance": 8,
+    "days_since_last_attendance": 368,
+    "churn_risk_score": 1.0,
+    "loyalty_score": 0.33
+  },
+  {
+    "name": "Shelia Reyes",
+    "first_class_promotion": "Holiday Hustle",
+    "attendance": [
+      {
+        "date": "2024-01-24",
+        "class": "HIIT"
+      },
+      {
+        "date": "2024-01-31",
+        "class": "Yoga"
+      },
+      {
+        "date": "2024-01-30",
+        "class": "Barre"
+      },
+      {
+        "date": "2024-02-14",
+        "class": "Barre"
+      },
+      {
+        "date": "2024-02-05",
+        "class": "Yoga"
+      }
+    ],
+    "total_attendance": 5,
+    "days_since_last_attendance": 417,
+    "churn_risk_score": 1.0,
+    "loyalty_score": 0.31
+  },
+  {
+    "name": "Gregory Pitts",
+    "first_class_promotion": "B.Ingo Challenge",
+    "attendance": [
+      {
+        "date": "2024-03-16",
+        "class": "Barre"
+      },
+      {
+        "date": "2024-03-23",
+        "class": "Yoga"
+      },
+      {
+        "date": "2024-03-30",
+        "class": "Sculpt"
+      },
+      {
+        "date": "2024-04-03",
+        "class": "Ride"
+      },
+      {
+        "date": "2024-04-09",
+        "class": "Barre"
+      }
+    ],
+    "total_attendance": 5,
+    "days_since_last_attendance": 362,
+    "churn_risk_score": 1.0,
+    "loyalty_score": 0.28
+  },
+  {
+    "name": "Laura Evans",
+    "first_class_promotion": "B.Ingo Challenge",
+    "attendance": [
+      {
+        "date": "2024-03-25",
+        "class": "HIIT"
+      },
+      {
+        "date": "2024-04-01",
+        "class": "Yoga"
+      },
+      {
+        "date": "2024-03-31",
+        "class": "Yoga"
+      },
+      {
+        "date": "2024-04-06",
+        "class": "Ride"
+      },
+      {
+        "date": "2024-04-22",
+        "class": "Ride"
+      },
+      {
+        "date": "2024-04-09",
+        "class": "Sculpt"
+      },
+      {
+        "date": "2024-04-30",
+        "class": "Yoga"
+      },
+      {
+        "date": "2025-03-23",
+        "class": "Barre"
+      }
+    ],
+    "total_attendance": 8,
+    "days_since_last_attendance": 14,
+    "churn_risk_score": 0.23,
+    "loyalty_score": 0.04
+  },
+  {
+    "name": "Jeffrey Perez MD",
+    "first_class_promotion": "Holiday Hustle",
+    "attendance": [
+      {
+        "date": "2024-01-06",
+        "class": "Ride"
+      },
+      {
+        "date": "2024-01-12",
+        "class": "Ride"
+      },
+      {
+        "date": "2024-01-12",
+        "class": "Ride"
+      },
+      {
+        "date": "2024-01-18",
+        "class": "Ride"
+      },
+      {
+        "date": "2024-01-18",
+        "class": "Barre"
+      },
+      {
+        "date": "2024-01-31",
+        "class": "Yoga"
+      },
+      {
+        "date": "2024-02-05",
+        "class": "Ride"
+      },
+      {
+        "date": "2024-02-17",
+        "class": "Ride"
+      },
+      {
+        "date": "2024-03-02",
+        "class": "Barre"
+      },
+      {
+        "date": "2024-03-09",
+        "class": "Yoga"
+      }
+    ],
+    "total_attendance": 10,
+    "days_since_last_attendance": 393,
+    "churn_risk_score": 1.0,
+    "loyalty_score": 0.25
+  },
+  {
+    "name": "Kristen White",
+    "first_class_promotion": "Feel Good February",
+    "attendance": [
+      {
+        "date": "2024-02-05",
+        "class": "Ride"
+      },
+      {
+        "date": "2024-02-11",
+        "class": "Sculpt"
+      },
+      {
+        "date": "2024-02-19",
+        "class": "Ride"
+      },
+      {
+        "date": "2024-02-20",
+        "class": "Barre"
+      },
+      {
+        "date": "2024-03-04",
+        "class": "HIIT"
+      },
+      {
+        "date": "2024-02-20",
+        "class": "Yoga"
+      }
+    ],
+    "total_attendance": 6,
+    "days_since_last_attendance": 398,
+    "churn_risk_score": 1.0,
+    "loyalty_score": 0.3
+  },
+  {
+    "name": "Elaine Sutton",
+    "first_class_promotion": "B.Ingo Challenge",
+    "attendance": [
+      {
+        "date": "2024-03-07",
+        "class": "Ride"
+      },
+      {
+        "date": "2024-03-13",
+        "class": "HIIT"
+      },
+      {
+        "date": "2024-03-13",
+        "class": "Barre"
+      },
+      {
+        "date": "2024-03-28",
+        "class": "HIIT"
+      },
+      {
+        "date": "2024-03-23",
+        "class": "Yoga"
+      },
+      {
+        "date": "2024-04-06",
+        "class": "Ride"
+      }
+    ],
+    "total_attendance": 6,
+    "days_since_last_attendance": 365,
+    "churn_risk_score": 1.0,
+    "loyalty_score": 0.28
+  },
+  {
+    "name": "Vincent Case",
+    "first_class_promotion": "Feel Good February",
+    "attendance": [
+      {
+        "date": "2024-02-11",
+        "class": "Ride"
+      },
+      {
+        "date": "2024-02-14",
+        "class": "Barre"
+      },
+      {
+        "date": "2024-02-17",
+        "class": "Yoga"
+      },
+      {
+        "date": "2024-02-23",
+        "class": "HIIT"
+      },
+      {
+        "date": "2024-03-10",
+        "class": "Barre"
+      },
+      {
+        "date": "2024-03-07",
+        "class": "HIIT"
+      },
+      {
+        "date": "2024-02-29",
+        "class": "Yoga"
+      },
+      {
+        "date": "2024-03-24",
+        "class": "Ride"
+      },
+      {
+        "date": "2024-03-06",
+        "class": "Ride"
+      }
+    ],
+    "total_attendance": 9,
+    "days_since_last_attendance": 378,
+    "churn_risk_score": 1.0,
+    "loyalty_score": 0.32
+  }
+]

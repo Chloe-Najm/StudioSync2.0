@@ -1,0 +1,379 @@
+[
+  {
+    "name": "Michael Jennings",
+    "email": "kimberlyallen@gmail.com",
+    "membership": "10-Class Pack",
+    "retention_risk": "low",
+    "total_attendance": 15,
+    "studios_visited": [
+      "Vieux-Port",
+      "Rockland",
+      "Westmount",
+      "Centre-Ville"
+    ],
+    "preferred_classes": [
+      "Barre",
+      "Sculpt",
+      "TRX",
+      "Cycle",
+      "HIIT"
+    ],
+    "last_attended": "2023-11-07"
+  },
+  {
+    "name": "Ian Watts",
+    "email": "tiffanyhess@roy-brown.com",
+    "membership": "5-Class Pack",
+    "retention_risk": "low",
+    "total_attendance": 10,
+    "studios_visited": [
+      "Vieux-Port",
+      "Centre-Ville",
+      "Westmount",
+      "Rockland"
+    ],
+    "preferred_classes": [
+      "Sculpt",
+      "TRX",
+      "Barre",
+      "Cycle"
+    ],
+    "last_attended": "2025-02-20"
+  },
+  {
+    "name": "Elizabeth Smith",
+    "email": "jordanrachel@yahoo.com",
+    "membership": "Drop-In",
+    "retention_risk": "low",
+    "total_attendance": 14,
+    "studios_visited": [
+      "Vieux-Port",
+      "Rockland",
+      "Westmount",
+      "Centre-Ville"
+    ],
+    "preferred_classes": [
+      "TRX",
+      "Barre",
+      "HIIT",
+      "Cycle"
+    ],
+    "last_attended": "2025-01-29"
+  },
+  {
+    "name": "Lisa Mcintosh",
+    "email": "tammy32@taylor.com",
+    "membership": "10-Class Pack",
+    "retention_risk": "low",
+    "total_attendance": 14,
+    "studios_visited": [
+      "Vieux-Port",
+      "Centre-Ville",
+      "Westmount",
+      "Rockland"
+    ],
+    "preferred_classes": [
+      "Barre",
+      "Sculpt",
+      "TRX",
+      "Cycle",
+      "HIIT"
+    ],
+    "last_attended": "2024-09-19"
+  },
+  {
+    "name": "Caleb Carrillo",
+    "email": "pfletcher@jones.biz",
+    "membership": "10-Class Pack",
+    "retention_risk": "low",
+    "total_attendance": 1,
+    "studios_visited": [
+      "Westmount"
+    ],
+    "preferred_classes": [
+      "Cycle"
+    ],
+    "last_attended": "2024-08-26"
+  },
+  {
+    "name": "Mark Rangel",
+    "email": "sullivanjorge@malone.info",
+    "membership": "10-Class Pack",
+    "retention_risk": "low",
+    "total_attendance": 9,
+    "studios_visited": [
+      "Vieux-Port",
+      "Centre-Ville",
+      "Westmount",
+      "Rockland"
+    ],
+    "preferred_classes": [
+      "TRX",
+      "Barre",
+      "HIIT",
+      "Cycle"
+    ],
+    "last_attended": "2025-01-01"
+  },
+  {
+    "name": "Amy Ellison",
+    "email": "michaeljones@hotmail.com",
+    "membership": "5-Class Pack",
+    "retention_risk": "low",
+    "total_attendance": 25,
+    "studios_visited": [
+      "Vieux-Port",
+      "Centre-Ville",
+      "Westmount",
+      "Rockland"
+    ],
+    "preferred_classes": [
+      "Barre",
+      "Sculpt",
+      "TRX",
+      "Cycle",
+      "HIIT"
+    ],
+    "last_attended": "2024-03-27"
+  },
+  {
+    "name": "Matthew Nguyen",
+    "email": "coxsteven@yahoo.com",
+    "membership": "Unlimited",
+    "retention_risk": "low",
+    "total_attendance": 14,
+    "studios_visited": [
+      "Vieux-Port",
+      "Centre-Ville",
+      "Westmount",
+      "Rockland"
+    ],
+    "preferred_classes": [
+      "Sculpt",
+      "Barre",
+      "HIIT",
+      "Cycle"
+    ],
+    "last_attended": "2024-03-27"
+  },
+  {
+    "name": "Paul Jones",
+    "email": "halljamie@yahoo.com",
+    "membership": "Unlimited",
+    "retention_risk": "medium",
+    "total_attendance": 7,
+    "studios_visited": [
+      "Centre-Ville",
+      "Westmount",
+      "Rockland"
+    ],
+    "preferred_classes": [
+      "Barre",
+      "HIIT",
+      "Cycle"
+    ],
+    "last_attended": "2024-08-10"
+  },
+  {
+    "name": "Cody Benjamin",
+    "email": "vincent19@yahoo.com",
+    "membership": "Drop-In",
+    "retention_risk": "low",
+    "total_attendance": 3,
+    "studios_visited": [
+      "Westmount",
+      "Centre-Ville"
+    ],
+    "preferred_classes": [
+      "Sculpt",
+      "TRX",
+      "Barre"
+    ],
+    "last_attended": "2024-06-11"
+  },
+  {
+    "name": "Joe Stein",
+    "email": "eglenn@flores-schmidt.biz",
+    "membership": "Drop-In",
+    "retention_risk": "low",
+    "total_attendance": 22,
+    "studios_visited": [
+      "Vieux-Port",
+      "Rockland",
+      "Westmount",
+      "Centre-Ville"
+    ],
+    "preferred_classes": [
+      "Barre",
+      "Sculpt",
+      "TRX",
+      "Cycle",
+      "HIIT"
+    ],
+    "last_attended": "2024-12-12"
+  },
+  {
+    "name": "Andrew Davis",
+    "email": "hillregina@doyle.com",
+    "membership": "Drop-In",
+    "retention_risk": "low",
+    "total_attendance": 0,
+    "studios_visited": [],
+    "preferred_classes": [],
+    "last_attended": "2023-07-25"
+  },
+  {
+    "name": "Cameron Hanna",
+    "email": "kiaramiller@hotmail.com",
+    "membership": "Unlimited",
+    "retention_risk": "low",
+    "total_attendance": 0,
+    "studios_visited": [],
+    "preferred_classes": [],
+    "last_attended": "2025-03-17"
+  },
+  {
+    "name": "Ricky Castaneda",
+    "email": "currytracy@gmail.com",
+    "membership": "Drop-In",
+    "retention_risk": "low",
+    "total_attendance": 24,
+    "studios_visited": [
+      "Vieux-Port",
+      "Centre-Ville",
+      "Westmount",
+      "Rockland"
+    ],
+    "preferred_classes": [
+      "Barre",
+      "Sculpt",
+      "TRX",
+      "Cycle",
+      "HIIT"
+    ],
+    "last_attended": "2024-10-02"
+  },
+  {
+    "name": "Emily Owen",
+    "email": "annetterobinson@gomez-burke.org",
+    "membership": "10-Class Pack",
+    "retention_risk": "high",
+    "total_attendance": 8,
+    "studios_visited": [
+      "Vieux-Port",
+      "Rockland",
+      "Westmount",
+      "Centre-Ville"
+    ],
+    "preferred_classes": [
+      "Barre",
+      "Sculpt",
+      "TRX",
+      "Cycle",
+      "HIIT"
+    ],
+    "last_attended": "2025-03-12"
+  },
+  {
+    "name": "Frank Stevens",
+    "email": "rachelgeorge@gmail.com",
+    "membership": "Unlimited",
+    "retention_risk": "low",
+    "total_attendance": 6,
+    "studios_visited": [
+      "Vieux-Port",
+      "Westmount",
+      "Centre-Ville"
+    ],
+    "preferred_classes": [
+      "Barre",
+      "Sculpt",
+      "TRX",
+      "Cycle",
+      "HIIT"
+    ],
+    "last_attended": "2024-06-19"
+  },
+  {
+    "name": "Ryan Peters",
+    "email": "zsmith@blair.com",
+    "membership": "5-Class Pack",
+    "retention_risk": "high",
+    "total_attendance": 22,
+    "studios_visited": [
+      "Vieux-Port",
+      "Rockland",
+      "Westmount",
+      "Centre-Ville"
+    ],
+    "preferred_classes": [
+      "Sculpt",
+      "TRX",
+      "Barre",
+      "Cycle"
+    ],
+    "last_attended": "2025-02-23"
+  },
+  {
+    "name": "Breanna Park",
+    "email": "sandy55@murphy.info",
+    "membership": "5-Class Pack",
+    "retention_risk": "high",
+    "total_attendance": 9,
+    "studios_visited": [
+      "Vieux-Port",
+      "Centre-Ville",
+      "Westmount",
+      "Rockland"
+    ],
+    "preferred_classes": [
+      "Sculpt",
+      "TRX",
+      "HIIT",
+      "Cycle"
+    ],
+    "last_attended": "2024-12-13"
+  },
+  {
+    "name": "Shelia Reyes",
+    "email": "alishadavis@gmail.com",
+    "membership": "Drop-In",
+    "retention_risk": "low",
+    "total_attendance": 16,
+    "studios_visited": [
+      "Vieux-Port",
+      "Centre-Ville",
+      "Westmount",
+      "Rockland"
+    ],
+    "preferred_classes": [
+      "Barre",
+      "Sculpt",
+      "TRX",
+      "Cycle",
+      "HIIT"
+    ],
+    "last_attended": "2025-04-02"
+  },
+  {
+    "name": "Gregory Pitts",
+    "email": "jvelazquez@kennedy.com",
+    "membership": "Unlimited",
+    "retention_risk": "low",
+    "total_attendance": 11,
+    "studios_visited": [
+      "Vieux-Port",
+      "Centre-Ville",
+      "Westmount",
+      "Rockland"
+    ],
+    "preferred_classes": [
+      "Barre",
+      "Sculpt",
+      "TRX",
+      "Cycle",
+      "HIIT"
+    ],
+    "last_attended": "2024-09-07"
+  }
+]

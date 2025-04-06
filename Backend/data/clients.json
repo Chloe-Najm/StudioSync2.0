@@ -1,0 +1,764 @@
+[
+  {
+    "name": "Michael Jennings",
+    "first_class_promotion": null,
+    "attendance": [
+      {
+        "date": "2023-12-15",
+        "class": "Barre"
+      },
+      {
+        "date": "2023-12-20",
+        "class": "Yoga"
+      },
+      {
+        "date": "2023-12-23",
+        "class": "Ride"
+      },
+      {
+        "date": "2023-12-30",
+        "class": "Yoga"
+      },
+      {
+        "date": "2023-12-27",
+        "class": "Ride"
+      },
+      {
+        "date": "2024-01-04",
+        "class": "Barre"
+      },
+      {
+        "date": "2024-01-02",
+        "class": "Barre"
+      }
+    ]
+  },
+  {
+    "name": "Ian Watts",
+    "first_class_promotion": null,
+    "attendance": [
+      {
+        "date": "2023-12-21",
+        "class": "Yoga"
+      },
+      {
+        "date": "2023-12-23",
+        "class": "Yoga"
+      },
+      {
+        "date": "2023-12-31",
+        "class": "Ride"
+      },
+      {
+        "date": "2024-01-05",
+        "class": "Sculpt"
+      },
+      {
+        "date": "2024-01-02",
+        "class": "HIIT"
+      },
+      {
+        "date": "2024-01-05",
+        "class": "Ride"
+      }
+    ]
+  },
+  {
+    "name": "Elizabeth Smith",
+    "first_class_promotion": null,
+    "attendance": [
+      {
+        "date": "2023-12-27",
+        "class": "Ride"
+      },
+      {
+        "date": "2024-01-01",
+        "class": "HIIT"
+      },
+      {
+        "date": "2023-12-31",
+        "class": "Yoga"
+      },
+      {
+        "date": "2024-01-08",
+        "class": "Barre"
+      },
+      {
+        "date": "2024-01-12",
+        "class": "HIIT"
+      },
+      {
+        "date": "2024-01-16",
+        "class": "Barre"
+      },
+      {
+        "date": "2024-01-08",
+        "class": "HIIT"
+      }
+    ]
+  },
+  {
+    "name": "Lisa Mcintosh",
+    "first_class_promotion": null,
+    "attendance": [
+      {
+        "date": "2024-01-02",
+        "class": "Ride"
+      },
+      {
+        "date": "2024-01-04",
+        "class": "HIIT"
+      },
+      {
+        "date": "2024-01-12",
+        "class": "HIIT"
+      },
+      {
+        "date": "2024-01-08",
+        "class": "Ride"
+      },
+      {
+        "date": "2024-01-18",
+        "class": "Yoga"
+      },
+      {
+        "date": "2024-01-27",
+        "class": "Sculpt"
+      }
+    ]
+  },
+  {
+    "name": "Caleb Carrillo",
+    "first_class_promotion": null,
+    "attendance": [
+      {
+        "date": "2024-01-08",
+        "class": "Ride"
+      },
+      {
+        "date": "2024-01-13",
+        "class": "Barre"
+      },
+      {
+        "date": "2024-01-12",
+        "class": "Ride"
+      },
+      {
+        "date": "2024-01-17",
+        "class": "HIIT"
+      },
+      {
+        "date": "2024-01-16",
+        "class": "HIIT"
+      }
+    ]
+  },
+  {
+    "name": "Mark Rangel",
+    "first_class_promotion": "New Year Kickoff",
+    "attendance": [
+      {
+        "date": "2024-01-14",
+        "class": "Barre"
+      },
+      {
+        "date": "2024-01-16",
+        "class": "HIIT"
+      },
+      {
+        "date": "2024-01-18",
+        "class": "Barre"
+      },
+      {
+        "date": "2024-01-23",
+        "class": "Barre"
+      },
+      {
+        "date": "2024-01-26",
+        "class": "Yoga"
+      }
+    ]
+  },
+  {
+    "name": "Amy Ellison",
+    "first_class_promotion": "New Year Kickoff",
+    "attendance": [
+      {
+        "date": "2024-01-20",
+        "class": "Sculpt"
+      },
+      {
+        "date": "2024-01-24",
+        "class": "Barre"
+      },
+      {
+        "date": "2024-01-26",
+        "class": "Ride"
+      },
+      {
+        "date": "2024-02-04",
+        "class": "Yoga"
+      },
+      {
+        "date": "2024-01-28",
+        "class": "Barre"
+      },
+      {
+        "date": "2024-02-14",
+        "class": "Yoga"
+      }
+    ]
+  },
+  {
+    "name": "Matthew Nguyen",
+    "first_class_promotion": null,
+    "attendance": [
+      {
+        "date": "2024-01-26",
+        "class": "Sculpt"
+      },
+      {
+        "date": "2024-01-29",
+        "class": "Yoga"
+      },
+      {
+        "date": "2024-02-05",
+        "class": "HIIT"
+      },
+      {
+        "date": "2024-02-07",
+        "class": "Yoga"
+      },
+      {
+        "date": "2024-02-11",
+        "class": "Yoga"
+      }
+    ]
+  },
+  {
+    "name": "Paul Jones",
+    "first_class_promotion": null,
+    "attendance": [
+      {
+        "date": "2024-02-01",
+        "class": "Yoga"
+      },
+      {
+        "date": "2024-02-03",
+        "class": "Yoga"
+      },
+      {
+        "date": "2024-02-09",
+        "class": "Yoga"
+      },
+      {
+        "date": "2024-02-07",
+        "class": "Barre"
+      },
+      {
+        "date": "2024-02-21",
+        "class": "HIIT"
+      },
+      {
+        "date": "2024-02-11",
+        "class": "HIIT"
+      },
+      {
+        "date": "2024-02-19",
+        "class": "Sculpt"
+      }
+    ]
+  },
+  {
+    "name": "Cody Benjamin",
+    "first_class_promotion": null,
+    "attendance": [
+      {
+        "date": "2024-02-07",
+        "class": "Barre"
+      },
+      {
+        "date": "2024-02-10",
+        "class": "HIIT"
+      },
+      {
+        "date": "2024-02-13",
+        "class": "HIIT"
+      },
+      {
+        "date": "2024-02-22",
+        "class": "HIIT"
+      },
+      {
+        "date": "2024-02-23",
+        "class": "Yoga"
+      },
+      {
+        "date": "2024-03-03",
+        "class": "Sculpt"
+      }
+    ]
+  },
+  {
+    "name": "Joe Stein",
+    "first_class_promotion": null,
+    "attendance": [
+      {
+        "date": "2024-02-13",
+        "class": "Ride"
+      },
+      {
+        "date": "2024-02-17",
+        "class": "Ride"
+      },
+      {
+        "date": "2024-02-19",
+        "class": "Ride"
+      },
+      {
+        "date": "2024-02-22",
+        "class": "HIIT"
+      },
+      {
+        "date": "2024-03-04",
+        "class": "HIIT"
+      },
+      {
+        "date": "2024-02-28",
+        "class": "Yoga"
+      },
+      {
+        "date": "2024-03-14",
+        "class": "Yoga"
+      }
+    ]
+  },
+  {
+    "name": "Andrew Davis",
+    "first_class_promotion": "New Year Kickoff",
+    "attendance": [
+      {
+        "date": "2024-02-19",
+        "class": "Barre"
+      },
+      {
+        "date": "2024-02-23",
+        "class": "Yoga"
+      },
+      {
+        "date": "2024-02-23",
+        "class": "Sculpt"
+      },
+      {
+        "date": "2024-03-05",
+        "class": "Sculpt"
+      },
+      {
+        "date": "2024-02-27",
+        "class": "Barre"
+      },
+      {
+        "date": "2024-03-10",
+        "class": "Ride"
+      }
+    ]
+  },
+  {
+    "name": "Cameron Hanna",
+    "first_class_promotion": "Spring Into Fitness",
+    "attendance": [
+      {
+        "date": "2024-02-25",
+        "class": "Sculpt"
+      },
+      {
+        "date": "2024-02-29",
+        "class": "Barre"
+      },
+      {
+        "date": "2024-02-29",
+        "class": "Barre"
+      },
+      {
+        "date": "2024-03-08",
+        "class": "Yoga"
+      },
+      {
+        "date": "2024-03-12",
+        "class": "Barre"
+      },
+      {
+        "date": "2024-03-06",
+        "class": "Sculpt"
+      },
+      {
+        "date": "2024-03-20",
+        "class": "Sculpt"
+      },
+      {
+        "date": "2024-03-24",
+        "class": "HIIT"
+      }
+    ]
+  },
+  {
+    "name": "Ricky Castaneda",
+    "first_class_promotion": null,
+    "attendance": [
+      {
+        "date": "2024-03-02",
+        "class": "Ride"
+      },
+      {
+        "date": "2024-03-06",
+        "class": "Yoga"
+      },
+      {
+        "date": "2024-03-08",
+        "class": "Sculpt"
+      },
+      {
+        "date": "2024-03-14",
+        "class": "HIIT"
+      },
+      {
+        "date": "2024-03-10",
+        "class": "Sculpt"
+      },
+      {
+        "date": "2024-03-27",
+        "class": "Ride"
+      }
+    ]
+  },
+  {
+    "name": "Emily Owen",
+    "first_class_promotion": null,
+    "attendance": [
+      {
+        "date": "2024-03-08",
+        "class": "HIIT"
+      },
+      {
+        "date": "2024-03-11",
+        "class": "HIIT"
+      },
+      {
+        "date": "2024-03-16",
+        "class": "Ride"
+      },
+      {
+        "date": "2024-03-17",
+        "class": "Ride"
+      },
+      {
+        "date": "2024-03-20",
+        "class": "Sculpt"
+      },
+      {
+        "date": "2024-03-18",
+        "class": "Sculpt"
+      },
+      {
+        "date": "2024-03-20",
+        "class": "Barre"
+      },
+      {
+        "date": "2024-03-29",
+        "class": "Sculpt"
+      }
+    ]
+  },
+  {
+    "name": "Frank Stevens",
+    "first_class_promotion": null,
+    "attendance": [
+      {
+        "date": "2024-03-14",
+        "class": "Ride"
+      },
+      {
+        "date": "2024-03-18",
+        "class": "HIIT"
+      },
+      {
+        "date": "2024-03-22",
+        "class": "Yoga"
+      },
+      {
+        "date": "2024-03-26",
+        "class": "Sculpt"
+      }
+    ]
+  },
+  {
+    "name": "Ryan Peters",
+    "first_class_promotion": null,
+    "attendance": [
+      {
+        "date": "2024-03-20",
+        "class": "Yoga"
+      },
+      {
+        "date": "2024-03-22",
+        "class": "Sculpt"
+      },
+      {
+        "date": "2024-03-26",
+        "class": "HIIT"
+      },
+      {
+        "date": "2024-04-01",
+        "class": "Ride"
+      }
+    ]
+  },
+  {
+    "name": "Breanna Park",
+    "first_class_promotion": null,
+    "attendance": [
+      {
+        "date": "2024-03-26",
+        "class": "Sculpt"
+      },
+      {
+        "date": "2024-03-30",
+        "class": "Sculpt"
+      },
+      {
+        "date": "2024-04-05",
+        "class": "HIIT"
+      }
+    ]
+  },
+  {
+    "name": "Shelia Reyes",
+    "first_class_promotion": null,
+    "attendance": [
+      {
+        "date": "2024-04-01",
+        "class": "Yoga"
+      },
+      {
+        "date": "2024-04-04",
+        "class": "Barre"
+      },
+      {
+        "date": "2024-04-11",
+        "class": "Barre"
+      },
+      {
+        "date": "2024-04-13",
+        "class": "Ride"
+      },
+      {
+        "date": "2024-04-17",
+        "class": "HIIT"
+      },
+      {
+        "date": "2024-04-11",
+        "class": "Barre"
+      },
+      {
+        "date": "2024-04-19",
+        "class": "Ride"
+      }
+    ]
+  },
+  {
+    "name": "Gregory Pitts",
+    "first_class_promotion": "Spring Into Fitness",
+    "attendance": [
+      {
+        "date": "2024-04-07",
+        "class": "Sculpt"
+      },
+      {
+        "date": "2024-04-10",
+        "class": "HIIT"
+      },
+      {
+        "date": "2024-04-15",
+        "class": "Yoga"
+      },
+      {
+        "date": "2024-04-16",
+        "class": "Barre"
+      },
+      {
+        "date": "2024-04-19",
+        "class": "Barre"
+      },
+      {
+        "date": "2024-04-27",
+        "class": "Yoga"
+      },
+      {
+        "date": "2024-05-07",
+        "class": "Yoga"
+      }
+    ]
+  },
+  {
+    "name": "Laura Evans",
+    "first_class_promotion": "Spring Into Fitness",
+    "attendance": [
+      {
+        "date": "2024-04-13",
+        "class": "Sculpt"
+      },
+      {
+        "date": "2024-04-16",
+        "class": "Sculpt"
+      },
+      {
+        "date": "2024-04-23",
+        "class": "Sculpt"
+      },
+      {
+        "date": "2024-04-22",
+        "class": "HIIT"
+      },
+      {
+        "date": "2024-04-29",
+        "class": "Ride"
+      },
+      {
+        "date": "2024-05-03",
+        "class": "Yoga"
+      },
+      {
+        "date": "2024-05-07",
+        "class": "HIIT"
+      }
+    ]
+  },
+  {
+    "name": "Jeffrey Perez MD",
+    "first_class_promotion": null,
+    "attendance": [
+      {
+        "date": "2024-04-19",
+        "class": "Yoga"
+      },
+      {
+        "date": "2024-04-23",
+        "class": "Barre"
+      },
+      {
+        "date": "2024-04-29",
+        "class": "HIIT"
+      },
+      {
+        "date": "2024-04-25",
+        "class": "Yoga"
+      },
+      {
+        "date": "2024-05-05",
+        "class": "Sculpt"
+      },
+      {
+        "date": "2024-05-14",
+        "class": "HIIT"
+      },
+      {
+        "date": "2024-05-19",
+        "class": "HIIT"
+      },
+      {
+        "date": "2024-05-03",
+        "class": "HIIT"
+      }
+    ]
+  },
+  {
+    "name": "Kristen White",
+    "first_class_promotion": "Spring Into Fitness",
+    "attendance": [
+      {
+        "date": "2024-04-25",
+        "class": "HIIT"
+      },
+      {
+        "date": "2024-04-28",
+        "class": "Ride"
+      },
+      {
+        "date": "2024-05-03",
+        "class": "Ride"
+      },
+      {
+        "date": "2024-05-04",
+        "class": "HIIT"
+      }
+    ]
+  },
+  {
+    "name": "Elaine Sutton",
+    "first_class_promotion": null,
+    "attendance": [
+      {
+        "date": "2024-05-01",
+        "class": "Yoga"
+      },
+      {
+        "date": "2024-05-05",
+        "class": "HIIT"
+      },
+      {
+        "date": "2024-05-07",
+        "class": "Barre"
+      },
+      {
+        "date": "2024-05-13",
+        "class": "Ride"
+      },
+      {
+        "date": "2024-05-09",
+        "class": "Ride"
+      },
+      {
+        "date": "2024-05-21",
+        "class": "Sculpt"
+      },
+      {
+        "date": "2024-05-19",
+        "class": "Yoga"
+      },
+      {
+        "date": "2024-06-05",
+        "class": "Ride"
+      }
+    ]
+  },
+  {
+    "name": "Vincent Case",
+    "first_class_promotion": "Spring Into Fitness",
+    "attendance": [
+      {
+        "date": "2024-05-07",
+        "class": "Sculpt"
+      },
+      {
+        "date": "2024-05-09",
+        "class": "HIIT"
+      },
+      {
+        "date": "2024-05-15",
+        "class": "HIIT"
+      },
+      {
+        "date": "2024-05-16",
+        "class": "Yoga"
+      },
+      {
+        "date": "2024-05-15",
+        "class": "Yoga"
+      },
+      {
+        "date": "2024-05-22",
+        "class": "Barre"
+      }
+    ]
+  }
+]

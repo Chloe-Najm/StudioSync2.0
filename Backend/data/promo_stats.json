@@ -1,0 +1,17 @@
+{
+  "Holiday Hustle": {
+    "clients_joined": 4,
+    "total_attendance": 33,
+    "retained_clients": 0
+  },
+  "Feel Good February": {
+    "clients_joined": 11,
+    "total_attendance": 84,
+    "retained_clients": 3
+  },
+  "B.Ingo Challenge": {
+    "clients_joined": 9,
+    "total_attendance": 59,
+    "retained_clients": 1
+  }
+}
