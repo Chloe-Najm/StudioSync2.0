@@ -1,0 +1,29 @@
+{
+  "summary": "The feedback received is mixed with both positive and negative comments. Clients appreciate the instructors' playlists and the new bands, as well as the cleanliness of the bathrooms. However, they pointed out issues with staff behavior, loud music during classes, and the cleanliness of the showers. Some clients have also expressed dissatisfaction with an instructor's performance.",
+  "categories": {
+    "praise": [
+      "Clients loved Nina and Andrea's playlists",
+      "Bathrooms were very clean",
+      "The new bands are great",
+      "Zoe at the front desk was appreciated for her kindness",
+      "45-minute class duration was appreciated"
+    ],
+    "criticism": [
+      "Rude behavior of a girl at the front desk",
+      "The music was too loud during the class",
+      "Showers were reported to be dirty",
+      "An instructor was termed as terrible, all over the place, and rude"
+    ]
+  },
+  "suggestions": [
+    "Consider offering ankle weights for the barre classes",
+    "Ensure all staff are trained to provide good customer service",
+    "Monitor sound levels during classes",
+    "Ensure cleanliness of all facilities, especially the showers"
+  ],
+  "sentimentBreakdown": {
+    "positive": 1,
+    "neutral": 1,
+    "negative": 1
+  }
+}

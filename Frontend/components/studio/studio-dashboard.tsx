@@ -1,10 +1,12 @@
 "use client"
+
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs"
-import { BarChart, Activity, Users } from "lucide-react"
+import { BarChart, Activity, Users, MessageCircle } from "lucide-react"
 
 import { ClassDistribution } from "@/components/studio/class-distribution"
 import { PromotionStats } from "@/components/studio/promotion-stats"
 import { ClientSegments } from "@/components/studio/client-segments"
+import { FeedbackReview } from "@/components/studio/feedback-review"
 
 export function StudioDashboard() {
   return (
@@ -37,6 +39,13 @@ export function StudioDashboard() {
             <Users className="h-4 w-4 mr-2" />
             Client Segments
           </TabsTrigger>
+          <TabsTrigger
+            value="feedback"
+            className="data-[state=active]:bg-[#F2A0A0] data-[state=active]:text-white"
+          >
+            <MessageCircle className="h-4 w-4 mr-2" />
+            Feedback
+          </TabsTrigger>
         </TabsList>
 
         <TabsContent value="class-distribution" className="space-y-6">
@@ -49,6 +58,10 @@ export function StudioDashboard() {
 
         <TabsContent value="client-segments" className="space-y-6">
           <ClientSegments />
+        </TabsContent>
+
+        <TabsContent value="feedback" className="space-y-6">
+          <FeedbackReview />
         </TabsContent>
       </Tabs>
     </div>

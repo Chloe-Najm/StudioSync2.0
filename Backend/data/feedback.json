@@ -1,0 +1,118 @@
+[
+  {
+    "category": "instructor",
+    "message": "I loved nina's playlist!",
+    "clientName": "John Doe",
+    "timestamp": "2025-04-07T00:40:07.529646"
+  },
+  {
+    "category": "equipment",
+    "message": "I wish you offered ankle weights for the barre classes. It would really take it to the next level!\n",
+    "clientName": "John Doe",
+    "timestamp": "2025-04-07T00:50:26.587565"
+  },
+  {
+    "category": "staff",
+    "message": "The girl at the frint desk was very rude when I asked about upgrading my class package!",
+    "clientName": "John Doe",
+    "timestamp": "2025-04-07T00:51:12.906477"
+  },
+  {
+    "category": "class",
+    "message": "the music was too loud!!!!",
+    "clientName": "John Doe",
+    "timestamp": "2025-04-07T00:51:25.472538"
+  },
+  {
+    "category": "facility",
+    "message": "Bathrooms were very clean",
+    "clientName": "John Doe",
+    "timestamp": "2025-04-07T00:51:37.621851"
+  },
+  {
+    "category": "staff",
+    "message": "Zoe at the front desk was very sweet when I told her I needed to pause my membership for a few weeks as I'm leaving on vacation.",
+    "clientName": "John Doe",
+    "timestamp": "2025-04-07T00:52:11.990095"
+  },
+  {
+    "category": "instructor",
+    "message": "The new instructor andrea is amazing! loved her playlist!!",
+    "clientName": "John Doe",
+    "timestamp": "2025-04-07T00:52:26.920744"
+  },
+  {
+    "category": "facility",
+    "message": "The showers were a little dirty\n",
+    "clientName": "John Doe",
+    "timestamp": "2025-04-07T01:23:18.414339"
+  },
+  {
+    "category": "facility",
+    "message": "The showers were a little dirty\n",
+    "clientName": "John Doe",
+    "timestamp": "2025-04-07T01:23:25.239796"
+  },
+  {
+    "category": "facility",
+    "message": "The showers were a little dirty\n",
+    "clientName": "John Doe",
+    "timestamp": "2025-04-07T01:23:31.789326"
+  },
+  {
+    "category": "equipment",
+    "message": "The new bands are great!",
+    "clientName": "John Doe",
+    "timestamp": "2025-04-07T01:34:06.601692",
+    "sentiment": "unknown",
+    "reason": "Could not analyze sentiment"
+  },
+  {
+    "category": "cleanliness",
+    "message": "The showers were spotless and the staff was kind!",
+    "clientName": "Test User",
+    "timestamp": "2025-04-07T01:37:43.246722",
+    "sentiment": "unknown",
+    "reason": "Could not analyze sentiment"
+  },
+  {
+    "category": "instructor",
+    "message": "Instructor was terrible, all over the place, and rude.",
+    "clientName": "John Doe",
+    "timestamp": "2025-04-07T02:25:44.182621",
+    "sentiment": "unknown",
+    "reason": "Could not parse GPT response"
+  },
+  {
+    "category": "instructor",
+    "message": "hhhhh",
+    "clientName": "John Doe",
+    "timestamp": "2025-04-07T02:41:39.638558",
+    "sentiment": "unknown",
+    "reason": "Could not parse GPT response"
+  },
+  {
+    "category": "instructor",
+    "message": "hey\n",
+    "clientName": "John Doe",
+    "timestamp": "2025-04-07T02:46:18.945027",
+    "sentiment": "neutral",
+    "reason": "The message is too short and doesn't provide any specific feedback."
+  },
+  {
+    "category": "instructor",
+    "message": "bad bad bad bad abad sometimes good\n",
+    "clientName": "John Doe",
+    "timestamp": "2025-04-07T02:47:49.516120",
+    "sentiment": "negative",
+    "reason": "The review mostly mentions 'bad' with only a single mention of 'good'."
+  },
+  {
+    "category": "class",
+    "message": "I loved that the class was 45 minutes! Not too long but just enough for a good workout.",
+    "clientName": "John Doe",
+    "timestamp": "2025-04-07T02:55:15.069851",
+    "sentiment": "positive",
+    "reason": "Client loved the duration of the class, indicating a satisfying workout."
+  }
+]

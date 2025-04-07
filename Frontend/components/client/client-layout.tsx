@@ -4,7 +4,7 @@ import type React from "react"
 
 import Link from "next/link"
 import { usePathname } from "next/navigation"
-import { BarChart, MessageSquare, Inbox, Home } from "lucide-react"
+import { BarChart, MessageSquare, Inbox, Home, MessageCircle } from "lucide-react"
 
 export function ClientLayout({ children }: { children: React.ReactNode }) {
   const pathname = usePathname()
@@ -59,6 +59,17 @@ export function ClientLayout({ children }: { children: React.ReactNode }) {
             >
               <Inbox className="h-5 w-5" />
               Inbox
+            </Link>
+            <Link
+              href="/client-demo/feedback"
+              className={`flex items-center gap-3 rounded-lg px-3 py-2 text-sm transition-all ${
+                pathname === "/client-demo/feedback"
+                  ? "bg-[#FDF0EE] text-[#F2A0A0] font-medium"
+                  : "text-[#666666] hover:bg-[#FDF0EE] hover:text-[#F2A0A0]"
+              }`}
+            >
+              <MessageCircle className="h-5 w-5" />
+              Leave Feedback
             </Link>
             <Link
               href="/"
