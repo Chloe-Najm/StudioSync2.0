@@ -12,7 +12,7 @@ export function FeedbackReview() {
   useEffect(() => {
     const fetchSummary = async () => {
       try {
-        const response = await fetch("http://localhost:4000/api/feedback-summary")
+        const response = await fetch(`${process.env.NEXT_PUBLIC_API_BASE_URL}/api/feedback-summary`)
         if (!response.ok) throw new Error("Failed to fetch summary")
 
         const data = await response.json()
